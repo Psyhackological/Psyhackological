@@ -51,7 +51,7 @@
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" alt="Windows10">
 </a>
 
-## I am currently learning
+### I am currently learning
 <a style="text-decoration:none" href="https://endeavouros.com/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="endeavourOS">
 </a>
@@ -62,7 +62,7 @@
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java8"> 
 </a>
 
-## I am going to learn
+### I am going to learn
 <a style="text-decoration:none" href="https://www.djangoproject.com/">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/django/django-original.svg" alt="Django4">
 </a>
@@ -92,7 +92,7 @@
 
 ### Besides programming I adore
 <a href="https://dynamic.wakingup.com/shareOpenAccess/603789" style="text-decoration:none">
-    <img height="42" src="https://d2uk1wgjryl0y1.cloudfront.net/shared/images/1659_fb662c69-cf7e-4c1a-9308-cfeb393cc06a_thumb_x1" alt="Waking Up: Guided Meditation">
+    <img height="42" src="blob:https://imgur.com/ac9a02dc-c864-4d2c-baea-f534267254a8" alt="Waking Up: Guided Meditation">
 </a>
 <a href="https://www.chess.com/" style="text-decoration:none">
     <img height="42" src="https://www.chess.com/bundles/web/favicons/favicon-256x256.png" alt="Chess.com">
