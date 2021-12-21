@@ -1,5 +1,5 @@
 ## Hi! 👋 My name is Konrad Konieczny.
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Psyhackological&theme=nord&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Psyhackological&theme=nord&hide=prs,issues,contribs&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Ways to reach me
 <a style="text-decoration:none" href="mailto:konradkon@pm.me">
