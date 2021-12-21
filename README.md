@@ -1,4 +1,5 @@
-# Hi! 👋 My name is Konrad Konieczny.
+## Hi! 👋 My name is Konrad Konieczny.
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Psyhackological&theme=nord&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Ways to reach me
 <a style="text-decoration:none" href="mailto:konradkon@pm.me">
@@ -70,7 +71,7 @@
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="Docker">
 </a>
 <a style="text-decoration:none" href="https://dotnet.microsoft.com/en-us/languages/csharp">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#9">
 </a>
 <a style="text-decoration:none" href="https://www.rust-lang.org/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust">
@@ -92,7 +93,7 @@
 
 ### Besides programming I adore
 <a href="https://dynamic.wakingup.com/shareOpenAccess/603789" style="text-decoration:none">
-    <img height="42" src="blob:https://imgur.com/ac9a02dc-c864-4d2c-baea-f534267254a8" alt="Waking Up: Guided Meditation">
+    <img height="42" src="wakingup.png" alt="Waking Up: Guided Meditation">
 </a>
 <a href="https://www.chess.com/" style="text-decoration:none">
     <img height="42" src="https://www.chess.com/bundles/web/favicons/favicon-256x256.png" alt="Chess.com">
