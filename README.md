@@ -53,8 +53,11 @@
 </a>
 
 ### I am currently learning
-<a style="text-decoration:none" href="https://endeavouros.com/">
+<a style="text-decoration:none" href="https://www.vim.org/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="endeavourOS">
+</a>
+<a style="text-decoration:none" href="https://www.java.com/">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim"> 
 </a>
 <a style="text-decoration:none" href="https://git-scm.com/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
