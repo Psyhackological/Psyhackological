@@ -15,8 +15,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-2567B3?style=flat-square&logo=LinkedIn&logoColor=FCFBF6" alt="LinkedIn">
 </a>
 
-[comment]: # (TODO LinkedIn)
-
 ### I used to work with
 <a style="text-decoration:none" href="http://www.cplusplus.org/">
     <img height="42" src="https://wikiless.org/media/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++20">
@@ -42,6 +40,9 @@
 ### I am currently working on
 <a style="text-decoration:none" href="https://github.com/Psyhackological/DDD">
     <img height="42" src="https://raw.githubusercontent.com/Psyhackological/DDD/main/ddd/logo.ico">
+</a>
+<a style="text-decoration:none" href="https://github.com/Psyhackological/youtubist">
+    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/youtubist/main/youtubist.ico">
 </a>
 
 ### I am feeling confident at
