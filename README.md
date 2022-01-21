@@ -60,12 +60,13 @@
 <a style="text-decoration:none" href="https://www.vim.org/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim"> 
 </a>
-<a style="text-decoration:none" href="https://git-scm.com/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
-</a>
 <a style="text-decoration:none" href="https://ranger.github.io/">
     <img height="42" src="https://ranger.github.io/ranger_logo.png" alt="Ranger">
 </a>
+<a style="text-decoration:none" href="https://git-scm.com/">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
+</a>
+
 
 ### I am currently learning
 <a style="text-decoration:none" href="https://endeavouros.com/">
@@ -110,9 +111,6 @@
 <a href="https://dynamic.wakingup.com/shareOpenAccess/603789" style="text-decoration:none">
     <img height="42" src="wakingup.png" alt="Waking Up: Guided Meditation">
 </a>
-<a href="https://www.chess.com/" style="text-decoration:none">
-    <img height="42" src="https://www.chess.com/bundles/web/favicons/favicon-256x256.png" alt="Chess.com">
-</a>
-<a href="https://lichess.org/" style="text-decoration:none">
+<a href="https://lichess.org/@/Psyhackological" style="text-decoration:none">
     <img height="42" src="https://wikiless.org/media/wikipedia/en/6/6d/Lichess_Logo_2019.png" alt="Lichess">
 </a>
