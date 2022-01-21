@@ -60,8 +60,11 @@
 <a style="text-decoration:none" href="https://www.vim.org/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim"> 
 </a>
-    <a style="text-decoration:none" href="https://git-scm.com/">
+<a style="text-decoration:none" href="https://git-scm.com/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
+</a>
+<a style="text-decoration:none" href="https://ranger.github.io/">
+    <img height="42" src="https://ranger.github.io/ranger_logo.png" alt="Ranger">
 </a>
 
 ### I am currently learning
