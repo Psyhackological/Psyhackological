@@ -1,4 +1,5 @@
-## Hi! 👋 My name is Konrad Konieczny.
+
+## Hi! <img alt="HiGif" height="32" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> My name is Konrad Konieczny. 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Psyhackological&theme=nord&hide=prs,issues,contribs&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Ways to reach me
@@ -99,12 +100,6 @@
 </a>
 <a style="text-decoration:none" href="https://www.jetbrains.com/idea/">
     <img height="42" src="https://wikiless.org/media/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA">
-</a>
-<a style="text-decoration:none" href="https://code.visualstudio.com/">
-    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code">
-</a>
-<a style="text-decoration:none" href="https://atom.io/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="Atom">
 </a>
 
 ### Besides programming I adore
