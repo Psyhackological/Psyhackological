@@ -95,6 +95,9 @@
 </a>    
 
 ### My toolkit
+<a style="text-decoration:none" href="https://endeavouros.com/">
+    <img height="42" src="https://endeavouros.com/wp-content/uploads/2021/04/eos-icon.png" alt="endeavourOS">
+</a>
 <a style="text-decoration:none" href="https://www.jetbrains.com/pycharm/">
     <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm">
 </a>
