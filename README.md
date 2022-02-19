@@ -67,8 +67,8 @@
 
 
 ### I am currently learning
-<a style="text-decoration:none" href="https://endeavouros.com/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="endeavourOS">
+<a style="text-decoration:none" href="https://www.kernel.org/">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="GNU/Linux">
 </a>
 <a style="text-decoration:none" href="https://www.java.com/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java8"> 
