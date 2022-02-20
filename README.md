@@ -76,9 +76,6 @@
 <a style="text-decoration:none" href="https://www.gnu.org/software/bash/">
     <img height="42" src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash"> 
 </a>
-<a style="text-decoration:none" href="https://microsoft.com/powershell">
-    <img height="42" src="https://gist.githubusercontent.com/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="PowerShell"> 
-</a>
 
 ### I am going to learn
 <a style="text-decoration:none" href="https://www.djangoproject.com/">
@@ -98,6 +95,9 @@
 </a>
 <a style="text-decoration:none" href="https://wikiless.org/wiki/Regular_expression?lang=en">
     <img height="42" src="https://keestalkstech.com/wp-content/uploads/2020/06/regex_logo.png" alt="Regex">
+</a>
+<a style="text-decoration:none" href="https://microsoft.com/powershell">
+    <img height="42" src="https://gist.githubusercontent.com/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="PowerShell"> 
 </a>
 
 ### My toolkit
