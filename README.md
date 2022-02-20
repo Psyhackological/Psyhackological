@@ -110,6 +110,9 @@
 <a style="text-decoration:none" href="https://plugins.jetbrains.com/plugin/164-ideavim">
     <img height="42" src="https://plugins.jetbrains.com/files/164/159216/icon/pluginIcon.svg" alt="IdeaVim">
 </a>
+<a style="text-decoration:none" href="https://www.sublimetext.com/">
+    <img height="42" src="https://wikiless.org/media/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="SublimeText">
+</a>
 
 ### Besides programming I adore
 <a href="https://dynamic.wakingup.com/shareOpenAccess/603789" style="text-decoration:none">
