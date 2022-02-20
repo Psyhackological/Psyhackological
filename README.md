@@ -107,6 +107,9 @@
 <a style="text-decoration:none" href="https://www.jetbrains.com/pycharm/">
     <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm">
 </a>
+<a style="text-decoration:none" href="https://plugins.jetbrains.com/plugin/164-ideavim">
+    <img height="42" src="https://plugins.jetbrains.com/files/164/159216/icon/pluginIcon.svg" alt="IdeaVim">
+</a>
 
 ### Besides programming I adore
 <a href="https://dynamic.wakingup.com/shareOpenAccess/603789" style="text-decoration:none">
