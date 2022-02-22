@@ -99,6 +99,9 @@
 <a style="text-decoration:none" href="https://microsoft.com/powershell">
     <img height="42" src="https://gist.githubusercontent.com/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="PowerShell"> 
 </a>
+<a style="text-decoration:none" href="https://www.r-project.org/">
+    <img height="42" src="https://www.r-project.org/logo/Rlogo.svg" alt="R"> 
+</a>
 
 ### My toolkit
 <a style="text-decoration:none" href="https://endeavouros.com/">
