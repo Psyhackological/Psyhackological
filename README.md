@@ -2,9 +2,13 @@
 ## Hi! <img alt="HiGif" height="32" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> My name is Konrad Konieczny. 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Psyhackological&theme=nord&hide=prs,issues,contribs&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ### Ways to reach me
 <a style="text-decoration:none" href="mailto:konradkon@pm.me">
     <img height="32" src="https://img.shields.io/badge/ProtonMail-454660?style=flat-square&logo=ProtonMail&logoColor=white" alt="ProtonMail">
+</a>
+<a style="text-decoration:none" href="https://www.linkedin.com/in/konrad-konieczny-285328201/">
+    <img height="32" src="https://img.shields.io/badge/LinkedIn-2567B3?style=flat-square&logo=LinkedIn&logoColor=FCFBF6" alt="LinkedIn">
 </a>
 <a style="text-decoration:none" href="https://www.toptal.com/developers/hastebin/imayubenob.rb">
     <img height="32" src="https://img.shields.io/badge/Discord-738ADA?style=flat-square&logo=Discord&logoColor=F4F4F4" alt="Discord">
@@ -12,9 +16,7 @@
 <a style="text-decoration:none" href="https://matrix.to/#/@psyhackological:matrix.org">
     <img height="32" src="https://img.shields.io/badge/Element-0DBD8B?style=flat-square&logo=Element&logoColor=white" alt="Element.io">
 </a>
-<a style="text-decoration:none" href="https://www.linkedin.com/in/konrad-konieczny-285328201/">
-    <img height="32" src="https://img.shields.io/badge/LinkedIn-2567B3?style=flat-square&logo=LinkedIn&logoColor=FCFBF6" alt="LinkedIn">
-</a>
+
 
 ### I used to work with
 <a style="text-decoration:none" href="http://www.cplusplus.org/">
@@ -26,11 +28,12 @@
 <a style="text-decoration:none" href="https://www.w3.org/Style/CSS/Overview.en.html">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"> 
 </a>
+<a style="text-decoration:none" href="https://getbootstrap.com/">
+    <img height="42" src="https://wikiless.org/media/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap5">
+</a>
 <a style="text-decoration:none" href="https://www.ecma-international.org/ecma-262/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
 </a>
-<a style="text-decoration:none" href="https://getbootstrap.com/">
-    <img height="42" src="https://wikiless.org/media/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap5"> 
 <a style="text-decoration:none" href="https://www.php.net/">
     <img height="42" src="https://wikiless.org/media/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP8"> 
 </a>
@@ -38,24 +41,27 @@
     <img height="42" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="Adobe Photoshop">
 </a>
 
+
 ### I am currently working on
 <a style="text-decoration:none" href="https://github.com/Psyhackological/DDD">
-    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/DDD/main/ddd/logo.ico">
+    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/DDD/main/ddd/logo.ico" alt="Darknet Diaries Downloader">
 </a>
 <a style="text-decoration:none" href="https://github.com/Psyhackological/youtubist">
-    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/youtubist/main/youtubist.ico">
+    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/youtubist/main/youtubist.ico" alt="youtubist">
 </a>
+
 
 ### I am feeling confident at
 <a style="text-decoration:none" href="https://www.python.org/">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="Python3">
 </a>
-<a style="text-decoration:none" href="https://www.android.com/">
-    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/android/android-plain.svg" alt="Android">
-</a>
 <a style="text-decoration:none" href="https://www.microsoft.com/en-us/windows/get-windows-10">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" alt="Windows10">
 </a>
+<a style="text-decoration:none" href="https://www.android.com/">
+    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/android/android-plain.svg" alt="Android">
+</a>
+
 
 ### I recently learnt
 <a style="text-decoration:none" href="https://www.vim.org/">
@@ -70,28 +76,20 @@
 <a style="text-decoration:none" href="https://www.kernel.org/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="GNU/Linux">
 </a>
-<a style="text-decoration:none" href="https://www.java.com/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java8"> 
-</a>
 <a style="text-decoration:none" href="https://www.gnu.org/software/bash/">
     <img height="42" src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash"> 
 </a>
+<a style="text-decoration:none" href="https://www.java.com/">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java8"> 
+</a>
+
 
 ### I am going to learn
-<a style="text-decoration:none" href="https://www.djangoproject.com/">
-    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/django/django-original.svg" alt="Django4">
-</a>
 <a style="text-decoration:none" href="https://www.docker.com/">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="Docker">
 </a>
-<a style="text-decoration:none" href="https://dotnet.microsoft.com/en-us/languages/csharp">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#9">
-</a>
-<a style="text-decoration:none" href="https://www.rust-lang.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust">
-</a>
-<a style="text-decoration:none" href="https://www.gnu.org/software/emacs/">
-    <img height="42" src="https://www.gnu.org/software/emacs/images/emacs.png" alt="GNU Emacs">
+<a style="text-decoration:none" href="https://www.djangoproject.com/">
+    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/django/django-original.svg" alt="Django4">
 </a>
 <a style="text-decoration:none" href="https://wikiless.org/wiki/Regular_expression?lang=en">
     <img height="42" src="https://keestalkstech.com/wp-content/uploads/2020/06/regex_logo.png" alt="Regex">
@@ -99,9 +97,19 @@
 <a style="text-decoration:none" href="https://microsoft.com/powershell">
     <img height="42" src="https://gist.githubusercontent.com/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="PowerShell"> 
 </a>
+<a style="text-decoration:none" href="https://www.rust-lang.org/">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust">
+</a>
+<a style="text-decoration:none" href="https://dotnet.microsoft.com/en-us/languages/csharp">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#9">
+</a>
 <a style="text-decoration:none" href="https://www.r-project.org/">
     <img height="42" src="https://www.r-project.org/logo/Rlogo.svg" alt="R"> 
 </a>
+<a style="text-decoration:none" href="https://www.gnu.org/software/emacs/">
+    <img height="42" src="https://www.gnu.org/software/emacs/images/emacs.png" alt="GNU Emacs">
+</a>
+
 
 ### My toolkit
 <a style="text-decoration:none" href="https://endeavouros.com/">
@@ -116,6 +124,7 @@
 <a style="text-decoration:none" href="https://www.sublimetext.com/">
     <img height="42" src="https://wikiless.org/media/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="SublimeText">
 </a>
+
 
 ### Besides programming I adore
 <a href="https://dynamic.wakingup.com/shareOpenAccess/603789" style="text-decoration:none">
