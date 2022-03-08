@@ -82,6 +82,9 @@
 <a style="text-decoration:none" href="https://www.java.com/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java8"> 
 </a>
+<a style="text-decoration:none" href="https://inkscape.org/">
+    <img height="42" src="https://media.inkscape.org/media/resources/file/inkscape.svg" alt="Inkscape">
+</a>
 
 
 ### I am going to learn
@@ -111,9 +114,6 @@
 </a>
 <a style="text-decoration:none" href="https://www.gimp.org/">
     <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="Gimp">
-</a>
-<a style="text-decoration:none" href="https://inkscape.org/">
-    <img height="42" src="https://media.inkscape.org/media/resources/file/inkscape.svg" alt="Inkscape">
 </a>
 
 
