@@ -1,7 +1,8 @@
-## Hi! <img alt="HiGif" height="32" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> My name is Konrad Konieczny. 
-<img height="180em" alt="MyGitHubStats" src="https://github-readme-stats.vercel.app/api?username=Psyhackological&theme=nord&hide=prs,issues,contribs&show_icons=true&include_all_commits=true">
-<img height="180em" alt="MyMostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyhackological&layout=compact&theme=nord">
-
+## Hi! <img alt="HiGif" height="32" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> My name is Konrad Konieczny.
+<p>
+    <img height="170em" alt="MyGitHubStats" src="https://github-readme-stats.vercel.app/api?username=Psyhackological&theme=nord&hide=prs,issues,contribs&show_icons=true&count_private=true&hide_border=true">
+    <img height="170em" alt="MyMostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyhackological&layout=compact&theme=nord&hide_border=true">
+</p>
 
 ### Ways to reach me
 <a style="text-decoration:none" href="mailto:konradkon@pm.me">
