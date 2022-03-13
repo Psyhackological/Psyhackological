@@ -1,7 +1,7 @@
 ## Hi! <img alt="HiGif" height="32" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> My name is Konrad Konieczny.
 <p>
-    <img height="170em" alt="MyGitHubStats" src="https://github-readme-stats.vercel.app/api?username=Psyhackological&theme=nord&hide=prs,issues,contribs&show_icons=true&count_private=true&hide_border=true">
-    <img height="170em" alt="MyMostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyhackological&layout=compact&theme=nord&hide_border=true">
+    <img height="160em" alt="MyGitHubStats" src="https://github-readme-stats.vercel.app/api?username=Psyhackological&theme=nord&hide=prs,issues,contribs&show_icons=true&count_private=true&hide_border=true">
+    <img height="160em" alt="MyMostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyhackological&layout=compact&theme=nord&hide_border=true">
 </p>
 
 ### Ways to reach me
@@ -86,6 +86,9 @@
 <a style="text-decoration:none" href="https://inkscape.org/">
     <img height="42" src="https://media.inkscape.org/media/resources/file/inkscape.svg" alt="Inkscape">
 </a>
+<a style="text-decoration:none" href="https://dotnet.microsoft.com/en-us/languages/csharp">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#9">
+</a>
 
 
 ### I am going to learn
@@ -103,9 +106,6 @@
 </a>
 <a style="text-decoration:none" href="https://www.rust-lang.org/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust">
-</a>
-<a style="text-decoration:none" href="https://dotnet.microsoft.com/en-us/languages/csharp">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#9">
 </a>
 <a style="text-decoration:none" href="https://www.r-project.org/">
     <img height="42" src="https://www.r-project.org/logo/Rlogo.svg" alt="R"> 
