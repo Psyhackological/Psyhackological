@@ -24,10 +24,9 @@
 `cw: Rename`
 
 ### General:
-`u: undo`
+`u: Undo`
 `z: Change settings`
 
+### Cheatsheet:
+<img src="https://raw.githubusercontent.com/ranger/ranger/89d3683e42f9d220e7e888edc5d82bdb29f423c3/doc/cheatsheet.svg" alt="RangerCheatsheet">
 
-
-## Cheatsheet:
-![RangerCheatsheet](https://raw.githubusercontent.com/ranger/ranger/89d3683e42f9d220e7e888edc5d82bdb29f423c3/doc/cheatsheet.svg)
