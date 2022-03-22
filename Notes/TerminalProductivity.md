@@ -1,6 +1,5 @@
 # Terminal Productivity
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="GnuBashLogo" width="256">
+![AlacrittyLogo](https://upload.wikimedia.org/wikipedia/commons/9/90/Alacritty_logo.svg)
 
 ### ⬉ Cursor navigation
 | How to invoke      | What it does             |
