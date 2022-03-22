@@ -2,7 +2,7 @@
     <img src="https://opensource.freecodecamp.org/design-style-guide/img/fcc_primary_large.svg" alt="freeCodeCamp" width="75%">
 </div>
 
-# Current progress 1/10 | 28:11:36 ⬜⬜⬜ ✅⬜⬜⬜ ⬜ ⬜ ⬜
+# Current progress 1/10 | 28:11:36 ⬜⬜⬜ ✔️⬜⬜⬜ ⬜ ⬜ ⬜
 
 # 🐍 Python 0/3 ⬜⬜⬜
 
@@ -16,7 +16,7 @@
 - [ ] [Django / Tailwind Tutorial - Code a Netflix Clone | 3:46:22](https://youtu.be/gbyYXgiSgdM)
 
 
-# 🐧 Linux 1/4 ⬜⬜⬜⬜
+# 🐧 Linux 1/4 ✔️⬜⬜⬜
 ![VimTutorialForBeginnersThumbnail](https://i3.ytimg.com/vi/RZ4p-saaQkc/mqdefault.jpg)
 - [x] [Vim Tutorial for Beginners | 1:14:29](https://youtu.be/RZ4p-saaQkc)
 
