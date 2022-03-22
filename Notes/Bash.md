@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="GnuBashLogo" height="256">
+</div>
+
 # [CHAPTER 1 - Bash Shell Scripting for Beginners 2019](https://youtu.be/uXohpTNNP8A)
 
 ### ls - list
