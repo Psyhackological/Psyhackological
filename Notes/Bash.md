@@ -98,6 +98,7 @@ For example:
 ### head
 
 **Default**: prints out the first 10 lines
+
 `-n 1 file` , `--lines 1 file` Prints out the first line
 
 `-c 8 file`,  `--bytes 8 file` Prints out first eight bytes
