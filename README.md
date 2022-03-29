@@ -50,6 +50,9 @@
 <a style="text-decoration:none" href="https://github.com/Psyhackological/youtubist">
     <img height="42" src="https://raw.githubusercontent.com/Psyhackological/youtubist/main/youtubist_plain.svg" alt="youtubist">
 </a>
+<a style="text-decoration:none" href="https://github.com/Psyhackological/AAA">
+    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/AAA/main/img/AAA_short_plain.svg" alt="AAA">
+</a>
 
 
 ### I am feeling confident at
