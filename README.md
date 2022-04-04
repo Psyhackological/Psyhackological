@@ -92,6 +92,9 @@
 <a style="text-decoration:none" href="https://dotnet.microsoft.com/en-us/languages/csharp">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#9">
 </a>
+<a style="text-decoration:none" href="https://wikiless.org/wiki/Regular_expression?lang=en">
+    <img height="42" src="https://keestalkstech.com/wp-content/uploads/2020/06/regex_logo.png" alt="Regex">
+</a>
 
 
 ### I am going to learn
@@ -99,10 +102,7 @@
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="Docker">
 </a>
 <a style="text-decoration:none" href="https://www.djangoproject.com/">
-    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/django/django-original.svg" alt="Django4">
-</a>
-<a style="text-decoration:none" href="https://wikiless.org/wiki/Regular_expression?lang=en">
-    <img height="42" src="https://keestalkstech.com/wp-content/uploads/2020/06/regex_logo.png" alt="Regex">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django4">
 </a>
 <a style="text-decoration:none" href="https://microsoft.com/powershell">
     <img height="42" src="https://gist.githubusercontent.com/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="PowerShell"> 
