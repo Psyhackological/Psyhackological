@@ -149,3 +149,5 @@
 <a href="https://opensource.dev/" style="text-decoration:none">
     <img height="42" src="https://img.icons8.com/color/100/000000/open-source--v1.png" alt="OpenSource">
 </a>
+
+### Check out my MarkDown [notes](https://github.com/Psyhackological/notes) and [freeCodeCamp progress](freeCodeCamp/freeCodeCamp.md)!
