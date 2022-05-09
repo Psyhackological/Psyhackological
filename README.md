@@ -110,6 +110,9 @@
 <a style="text-decoration:none" href="https://microsoft.com/powershell">
     <img height="42" src="https://gist.githubusercontent.com/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="PowerShell"> 
 </a>
+<a style="text-decoration:none" href="https://go.dev/">
+    <img height="42" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Go">
+</a>
 <a style="text-decoration:none" href="https://www.rust-lang.org/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust">
 </a>
