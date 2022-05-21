@@ -1,4 +1,5 @@
 ## Hi! <img alt="HiGif" height="32" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> My name is Konrad Konieczny.
+> "Thinking about it is hard, doing it is easy".
 <p>
     <img height="160em" alt="MyGitHubStats" src="https://github-readme-stats.vercel.app/api?username=Psyhackological&theme=nord&show_icons=true&count_private=true&hide_border=true">
     <img height="160em" alt="MyMostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyhackological&layout=compact&theme=nord&hide_border=true">
@@ -157,6 +158,7 @@
 </a>
 
 ### Check out my MarkDown [notes](https://github.com/Psyhackological/notes) and [freeCodeCamp progress](freeCodeCamp/freeCodeCamp.md)!
+
 [^1]: I have an experience with, but I can't guarantee that I am currently proficient in it. At least it's going to be easier to come back to.
 [^2]: I spent fairly amount of time in it and I know how to properly use them in a very efficient way.
 [^3]: I started using them in practice without any external help. (alright, maybe sometimes)
