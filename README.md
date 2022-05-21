@@ -19,7 +19,7 @@
 </a>
 
 
-### I used to work with
+### I used to work with [^1]
 <a style="text-decoration:none" href="http://www.cplusplus.org/">
     <img height="42" src="https://wikiless.org/media/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++20">
 </a>
@@ -55,7 +55,7 @@
 </a>
 
 
-### I am feeling confident at
+### I am feeling confident at [^2]
 <a style="text-decoration:none" href="https://www.python.org/">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="Python3">
 </a>
@@ -67,7 +67,7 @@
 </a>
 
 
-### I recently learnt
+### I recently learnt [^3]
 <a style="text-decoration:none" href="https://www.vim.org/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim"> 
 </a>
@@ -76,7 +76,7 @@
 </a>
 
 
-### I am currently learning
+### I am currently learning [^4]
 <a style="text-decoration:none" href="https://www.kernel.org/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="GNU/Linux">
 </a>
@@ -100,7 +100,7 @@
 </a>
 
 
-### I am going to learn
+### I am going to learn [^5]
 <a style="text-decoration:none" href="https://www.docker.com/">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="Docker">
 </a>
@@ -127,7 +127,7 @@
 </a>
 
 
-### My toolkit
+### My toolkit [^6]
 <a style="text-decoration:none" href="https://endeavouros.com/">
     <img height="42" src="https://endeavouros.com/wp-content/uploads/2021/04/eos-icon.png" alt="endeavourOS">
 </a>
@@ -142,7 +142,7 @@
 </a>
 
 
-### Besides programming I adore
+### Besides programming I adore 
 <a href="https://dynamic.wakingup.com/shareOpenAccess/603789" style="text-decoration:none">
     <img height="42" src="wakingup.png" alt="Waking Up: Guided Meditation">
 </a>
@@ -154,3 +154,9 @@
 </a>
 
 ### Check out my MarkDown [notes](https://github.com/Psyhackological/notes) and [freeCodeCamp progress](freeCodeCamp/freeCodeCamp.md)!
+[^1]: I have an experience with, but I can't guarantee that I am proficient in it. At least it's going to be easier to come back to.
+[^2]: I spent fairly amount of time in it and I know how to properly use them in a very efficient way.
+[^3]: I started using them in practice without any external help. (alright, maybe sometimes)
+[^4]: I learn these in my spare time besides school. 
+[^5]: I would like to learn, get better and have fun with this technology.
+[^6]: I use these helping software to create software.
