@@ -11,7 +11,7 @@
 <a style="text-decoration:none" href="https://www.linkedin.com/in/konrad-konieczny-285328201/">
     <img height="32" src="https://img.shields.io/badge/LinkedIn-2567B3?style=flat-square&logo=LinkedIn&logoColor=FCFBF6" alt="LinkedIn">
 </a>
-<a style="text-decoration:none" href="https://privatebin.net/?fd25b582fe4039ba#GrkmhRaxHtwnrcYHafQCpqoXihmtTB15JQdtcaCWhWZt">
+<a style="text-decoration:none" href="https://privatebin.net/?518145c9c201db80#tUSoonCVvvMFtaNtjC8w4BxT7dyATu47AsntgPznsQC">
     <img height="32" src="https://img.shields.io/badge/Discord-738ADA?style=flat-square&logo=Discord&logoColor=F4F4F4" alt="Discord">
 </a>
 <a style="text-decoration:none" href="https://matrix.to/#/@psyhackological:matrix.org">
