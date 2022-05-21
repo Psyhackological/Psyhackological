@@ -140,6 +140,9 @@
 <a style="text-decoration:none" href="https://www.sublimetext.com/">
     <img height="42" src="https://wikiless.org/media/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="SublimeText">
 </a>
+<a style="text-decoration:none" href="https://vscodium.com/">
+    <img height="42" src="https://github.com/VSCodium/vscodium/raw/master/src/resources/linux/code.png" alt="VSCodium">
+</a>
 
 
 ### Besides programming I adore 
@@ -154,7 +157,7 @@
 </a>
 
 ### Check out my MarkDown [notes](https://github.com/Psyhackological/notes) and [freeCodeCamp progress](freeCodeCamp/freeCodeCamp.md)!
-[^1]: I have an experience with, but I can't guarantee that I am proficient in it. At least it's going to be easier to come back to.
+[^1]: I have an experience with, but I can't guarantee that I am currently proficient in it. At least it's going to be easier to come back to.
 [^2]: I spent fairly amount of time in it and I know how to properly use them in a very efficient way.
 [^3]: I started using them in practice without any external help. (alright, maybe sometimes)
 [^4]: I learn these in my spare time besides school. 
