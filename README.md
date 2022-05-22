@@ -19,6 +19,17 @@
     <img height="32" src="https://img.shields.io/badge/Element-0DBD8B?style=flat-square&logo=Element&logoColor=white" alt="Element.io">
 </a>
 
+### I am currently working on
+<a style="text-decoration:none" href="https://github.com/Psyhackological/DDD">
+    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/DDD/main/DDD_plain.svg" alt="Darknet Diaries Downloader">
+</a>
+<a style="text-decoration:none" href="https://github.com/Psyhackological/youtubist">
+    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/youtubist/main/youtubist_plain.svg" alt="youtubist">
+</a>
+<a style="text-decoration:none" href="https://github.com/Psyhackological/AAA">
+    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/AAA/main/img/AAA_short_plain.svg" alt="AAA">
+</a>
+
 
 ### I used to work with [^1]
 <a style="text-decoration:none" href="http://www.cplusplus.org/">
@@ -41,18 +52,6 @@
 </a>
 <a style="text-decoration:none" href="https://www.adobe.com/products/photoshop.html">
     <img height="42" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="Adobe Photoshop">
-</a>
-
-
-### I am currently working on
-<a style="text-decoration:none" href="https://github.com/Psyhackological/DDD">
-    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/DDD/main/DDD_plain.svg" alt="Darknet Diaries Downloader">
-</a>
-<a style="text-decoration:none" href="https://github.com/Psyhackological/youtubist">
-    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/youtubist/main/youtubist_plain.svg" alt="youtubist">
-</a>
-<a style="text-decoration:none" href="https://github.com/Psyhackological/AAA">
-    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/AAA/main/img/AAA_short_plain.svg" alt="AAA">
 </a>
 
 
