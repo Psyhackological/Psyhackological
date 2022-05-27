@@ -1,5 +1,7 @@
 ## Hi! <img alt="HiGif" height="32" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> My name is Konrad Konieczny.
-> "Thinking about it is hard, doing it is easy".
+> "Thinking about it is hard, doing it is easy."
+
+> "Learn, practice, repeat."
 <p>
     <img height="160em" alt="MyGitHubStats" src="https://github-readme-stats.vercel.app/api?username=Psyhackological&theme=nord&show_icons=true&count_private=true&hide_border=true">
     <img height="160em" alt="MyMostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyhackological&layout=compact&theme=nord&hide_border=true">
