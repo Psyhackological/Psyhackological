@@ -158,7 +158,7 @@
     <img height="42" src="https://img.icons8.com/color/100/000000/open-source--v1.png" alt="OpenSource">
 </a>
 
-### Check out my MarkDown [notes](https://github.com/Psyhackological/notes) and [freeCodeCamp progress](freeCodeCamp/freeCodeCamp.md)!
+### Check out my MarkDown [notes](https://github.com/Psyhackological/notes) and [freeCodeCamp progress](https://github.com/Psyhackological/freeCodeCamp)!
 
 [^1]: I have an experience with, but I can't guarantee that I am currently proficient in it. At least it's going to be easier to come back to.
 [^2]: I spent fairly amount of time in it and I know how to properly use them in a very efficient way.
