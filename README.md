@@ -52,9 +52,13 @@
 <a style="text-decoration:none" href="https://www.php.net/">
     <img height="42" src="https://wikiless.org/media/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP8"> 
 </a>
+<a style="text-decoration:none" href="https://www.java.com/">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java8"> 
+</a>
 <a style="text-decoration:none" href="https://www.adobe.com/products/photoshop.html">
     <img height="42" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="Adobe Photoshop">
 </a>
+
 
 
 ### I am feeling confident at [^2]
@@ -88,9 +92,6 @@
 
 
 ### I am currently learning [^4]
-<a style="text-decoration:none" href="https://www.java.com/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java8"> 
-</a>
 <a style="text-decoration:none" href="https://inkscape.org/">
     <img height="42" src="https://media.inkscape.org/media/resources/file/inkscape.svg" alt="Inkscape">
 </a>
