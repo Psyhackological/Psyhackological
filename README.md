@@ -153,7 +153,7 @@
     <img height="42" src="wakingup.png" alt="Waking Up: Guided Meditation">
 </a>
 <a href="https://lichess.org/@/Psyhackological" style="text-decoration:none">
-    <img height="42" src="https://wikiless.org/media/wikipedia/en/6/6d/Lichess_Logo_2019.png" alt="Lichess">
+    <img height="42" src="https://wikiless.org/media/wikipedia/commons/d/da/Lichess_Logo_2019.svg" alt="Lichess">
 </a>
 <a href="https://opensource.dev/" style="text-decoration:none">
     <img height="42" src="https://img.icons8.com/color/100/000000/open-source--v1.png" alt="OpenSource">
