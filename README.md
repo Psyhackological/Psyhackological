@@ -128,7 +128,9 @@
 <a style="text-decoration:none" href="https://www.gimp.org/">
     <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="Gimp">
 </a>
-
+<a style="text-decoration:none" href="https://www.lua.org/">
+    <img height="42" src="https://wikiless.esmailelbob.xyz/media/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua">
+</a>
 
 ### My toolkit [^6]
 <a style="text-decoration:none" href="https://endeavouros.com/">
