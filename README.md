@@ -149,7 +149,7 @@
     <img height="42" src="https://wikiless.org/media/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="SublimeText">
 </a>
 <a style="text-decoration:none" href="https://vscodium.com/">
-    <img height="42" src="https://github.com/VSCodium/vscodium/raw/master/src/resources/linux/code.png" alt="VSCodium">
+    <img height="42" src="https://raw.githubusercontent.com/VSCodium/vscodium/master/src/stable/src/vs/workbench/browser/media/code-icon.svg" alt="VSCodium">
 </a>
 
 
