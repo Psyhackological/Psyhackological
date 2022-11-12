@@ -32,7 +32,6 @@
     <img height="42" src="https://raw.githubusercontent.com/Psyhackological/AAA/main/img/AAA_short_plain.svg" alt="AAA">
 </a>
 
-
 ### I used to work with [^1]
 <a style="text-decoration:none" href="http://www.cplusplus.org/">
     <img height="42" src="https://wikiless.org/media/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++20">
@@ -59,8 +58,6 @@
     <img height="42" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="Adobe Photoshop">
 </a>
 
-
-
 ### I am feeling confident at [^2]
 <a style="text-decoration:none" href="https://www.python.org/">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="Python3">
@@ -72,7 +69,6 @@
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/android/android-plain.svg" alt="Android">
 </a>
 
-
 ### I recently learnt [^3]
 <a style="text-decoration:none" href="https://www.vim.org/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim"> 
@@ -83,11 +79,11 @@
 <a style="text-decoration:none" href="https://wikiless.org/wiki/Regular_expression?lang=en">
     <img height="42" src="https://keestalkstech.com/wp-content/uploads/2020/06/regex_logo.png" alt="Regex">
 </a>
-<a style="text-decoration:none" href="https://www.kernel.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="GNU/Linux">
-</a>
 <a style="text-decoration:none" href="https://www.gnu.org/software/bash/">
     <img height="42" src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash"> 
+</a>
+<a style="text-decoration:none" href="https://www.kernel.org/">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="GNU/Linux">
 </a>
 
 
@@ -110,7 +106,9 @@
 <a style="text-decoration:none" href="https://www.docker.com/">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="Docker">
 </a>
-
+<a style="text-decoration:none" href="https://www.r-project.org/">
+    <img height="42" src="https://www.r-project.org/logo/Rlogo.svg" alt="R"> 
+</a>
 
 ### I am going to learn [^5]
 <a style="text-decoration:none" href="https://microsoft.com/powershell">
@@ -118,9 +116,6 @@
 </a>
 <a style="text-decoration:none" href="https://go.dev/">
     <img height="42" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Go">
-</a>
-<a style="text-decoration:none" href="https://www.r-project.org/">
-    <img height="42" src="https://www.r-project.org/logo/Rlogo.svg" alt="R"> 
 </a>
 <a style="text-decoration:none" href="https://www.gnu.org/software/emacs/">
     <img height="42" src="https://www.gnu.org/software/emacs/images/emacs.png" alt="GNU Emacs">
@@ -151,7 +146,6 @@
 <a style="text-decoration:none" href="https://vscodium.com/">
     <img height="42" src="https://raw.githubusercontent.com/VSCodium/vscodium/master/src/stable/src/vs/workbench/browser/media/code-icon.svg" alt="VSCodium">
 </a>
-
 
 ### Besides programming I adore 
 <a href="https://dynamic.wakingup.com/shareOpenAccess/603789" style="text-decoration:none">
