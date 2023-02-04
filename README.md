@@ -25,15 +25,21 @@
 </a>
 
 ### I am currently working on
-<a style="text-decoration:none" href="https://github.com/Psyhackological/DDD">
-    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/DDD/main/DDD_plain.svg" alt="Darknet Diaries Downloader">
+<a style="text-decoration:none" href="https://github.com/Psyhackological/ytxt">
+    <img height="42" src="https://github.com/Psyhackological/ytxt/raw/main/img/ytxt_logo.svg" alt="ytxt">
 </a>
 <a style="text-decoration:none" href="https://github.com/Psyhackological/youtubist">
     <img height="42" src="https://raw.githubusercontent.com/Psyhackological/youtubist/main/youtubist_plain.svg" alt="youtubist">
 </a>
+<a style="text-decoration:none" href="https://github.com/Psyhackological/DDD">
+    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/DDD/main/DDD_plain.svg" alt="Darknet Diaries Downloader">
+</a>
 <a style="text-decoration:none" href="https://github.com/Psyhackological/AAA">
     <img height="42" src="https://raw.githubusercontent.com/Psyhackological/AAA/main/img/AAA_short_plain.svg" alt="AAA">
 </a>
+
+
+
 
 ### I used to work with [^1]
 <a style="text-decoration:none" href="http://www.cplusplus.org/">
