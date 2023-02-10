@@ -32,7 +32,7 @@
     <img height="42" src="https://raw.githubusercontent.com/Psyhackological/youtubist/main/youtubist_plain.svg" alt="youtubist">
 </a>
 <a style="text-decoration:none" href="https://github.com/Psyhackological/DDD">
-    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/DDD/main/DDD_plain.svg" alt="Darknet Diaries Downloader">
+    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/DDD/main/img/ddd_plain.svg" alt="Darknet Diaries Downloader">
 </a>
 <a style="text-decoration:none" href="https://github.com/Psyhackological/AAA">
     <img height="42" src="https://raw.githubusercontent.com/Psyhackological/AAA/main/img/AAA_short_plain.svg" alt="AAA">
