@@ -14,7 +14,7 @@
 <a style="text-decoration:none" href="mailto:konradkon@pm.me">
     <img height="32" src="https://img.shields.io/badge/ProtonMail-454660?style=flat-square&logo=ProtonMail&logoColor=white" alt="ProtonMail">
 </a>
-<a style="text-decoration:none" href="https://www.linkedin.com/in/konrad-konieczny-285328201/">
+<a style="text-decoration:none" href="www.linkedin.com/in/konradkon">
     <img height="32" src="https://img.shields.io/badge/LinkedIn-2567B3?style=flat-square&logo=LinkedIn&logoColor=FCFBF6" alt="LinkedIn">
 </a>
 <a style="text-decoration:none" href="https://privatebin.net/?518145c9c201db80#tUSoonCVvvMFtaNtjC8w4BxT7dyATu47AsntgPznsQC">
