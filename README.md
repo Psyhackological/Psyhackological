@@ -27,7 +27,7 @@
     <img height="42" src="https://github.com/Psyhackological/ytxt/raw/main/img/ytxt_logo.svg" alt="ytxt">
 </a>
 <a style="text-decoration:none" href="https://github.com/Psyhackological/youtubist">
-    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/youtubist/main/youtubist_plain.svg" alt="youtubist">
+    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/youtubist/main/img/youtubist_plain.svg" alt="youtubist">
 </a>
 <a style="text-decoration:none" href="https://github.com/Psyhackological/DDD">
     <img height="42" src="https://raw.githubusercontent.com/Psyhackological/DDD/main/img/ddd_plain.svg" alt="Darknet Diaries Downloader">
