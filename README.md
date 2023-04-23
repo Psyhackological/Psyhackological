@@ -1,4 +1,4 @@
-## Hi! <img alt="HiGif" height="32" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> My name is Konrad Konieczny.
+## Hi there! <img alt="HiGif" height="32" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> I'm Konrad Konieczny.
 > "Thinking about it is hard, doing it is easy."
 
 > "Learn, practice, repeat."
@@ -24,7 +24,7 @@
     <img height="32" src="https://img.shields.io/badge/Element-0DBD8B?style=flat-square&logo=Element&logoColor=white" alt="Element.io">
 </a>
 
-### I am currently working on
+### Projects I'm currently working on
 <a style="text-decoration:none" href="https://github.com/Psyhackological/ytxt">
     <img height="42" src="https://github.com/Psyhackological/ytxt/raw/main/img/ytxt_logo.svg" alt="ytxt">
 </a>
@@ -154,7 +154,7 @@
     <img height="42" src="https://raw.githubusercontent.com/VSCodium/vscodium/master/src/stable/src/vs/workbench/browser/media/code-icon.svg" alt="VSCodium">
 </a>
 
-### Besides programming I adore 
+### Besides programming, I adore 
 <a href="https://dynamic.wakingup.com/shareOpenAccess/603789" style="text-decoration:none">
     <img height="42" src="wakingup.png" alt="Waking Up: Guided Meditation">
 </a>
@@ -167,9 +167,9 @@
 
 ### Check out my MarkDown [notes](https://github.com/Psyhackological/notes) and [freeCodeCamp progress](https://github.com/Psyhackological/freeCodeCamp)!
 
-[^1]: I have an experience with, but I can't guarantee that I am currently proficient in it. At least it's going to be easier to come back to.
-[^2]: I spent fairly amount of time in it and I know how to properly use them in a very efficient way.
-[^3]: I started using them in practice without any external help. (alright, maybe sometimes)
-[^4]: I learn these in my spare time besides school. 
-[^5]: I would like to learn, get better and have fun with this technology.
-[^6]: I use these helping software to create software.
+[^1]: I've dabbled in it before, but I can't say I'm a total pro right now. Still, it'll probably be easier to get back in the groove.
+[^2]: I've put in some serious hours, and I know how to work those bad boys super efficiently.
+[^3]: I jumped right in and started using them without much outside help. (Okay, maybe just a tiny bit here and there!)
+[^4]: I've been learning this rad stuff in my own time, outside of school.
+[^5]: I want to dive in, level up my skills, and have a blast with this wicked tech.
+[^6]: I'm using this sweet helper software to whip up even more software.
