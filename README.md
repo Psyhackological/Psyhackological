@@ -63,6 +63,12 @@
 <a style="text-decoration:none" href="https://www.adobe.com/products/photoshop.html">
     <img height="42" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="Adobe Photoshop">
 </a>
+<a style="text-decoration:none" href="https://dotnet.microsoft.com/en-us/languages/csharp">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#9">
+</a>
+<a style="text-decoration:none" href="https://www.r-project.org/">
+    <img height="42" src="https://www.r-project.org/logo/Rlogo.svg" alt="R"> 
+</a>
 
 ### I am feeling confident at [^2]
 <a style="text-decoration:none" href="https://www.python.org/">
@@ -74,8 +80,11 @@
 <a style="text-decoration:none" href="https://www.android.com/">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/android/android-plain.svg" alt="Android">
 </a>
+<a style="text-decoration:none" href="https://www.kernel.org/">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="GNU/Linux">
+</a>
 
-### I recently learnt [^3]
+### I've recently learnt [^3]
 <a style="text-decoration:none" href="https://www.vim.org/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim"> 
 </a>
@@ -88,23 +97,17 @@
 <a style="text-decoration:none" href="https://www.gnu.org/software/bash/">
     <img height="42" src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash"> 
 </a>
-<a style="text-decoration:none" href="https://www.kernel.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="GNU/Linux">
+<a style="text-decoration:none" href="https://www.rust-lang.org/">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust">
 </a>
-
 
 ### I am currently learning [^4]
 <a style="text-decoration:none" href="https://inkscape.org/">
     <img height="42" src="https://media.inkscape.org/media/resources/file/inkscape.svg" alt="Inkscape">
 </a>
-<a style="text-decoration:none" href="https://dotnet.microsoft.com/en-us/languages/csharp">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#9">
-</a>
+
 <a style="text-decoration:none" href="https://ctflearn.com/">
     <img height="42" src="https://ctflearn.com//static/img/logo.png" alt="CTFlearn">
-</a>
-<a style="text-decoration:none" href="https://www.rust-lang.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust">
 </a>
 <a style="text-decoration:none" href="https://www.djangoproject.com/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django4">
@@ -112,9 +115,7 @@
 <a style="text-decoration:none" href="https://www.docker.com/">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="Docker">
 </a>
-<a style="text-decoration:none" href="https://www.r-project.org/">
-    <img height="42" src="https://www.r-project.org/logo/Rlogo.svg" alt="R"> 
-</a>
+
 
 ### I am going to learn [^5]
 <a style="text-decoration:none" href="https://microsoft.com/powershell">
