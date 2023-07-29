@@ -40,22 +40,22 @@
 
 ### I used to work with [^1]
 <a style="text-decoration:none" href="http://www.cplusplus.org/">
-    <img height="42" src="https://wikiless.org/media/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++20">
+    <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++20">
 </a>
-<a style="text-decoration:none" href="https://dev.w3.org/html5/spec-LC/">
+<a style="text-decoration:none" href="https://dev.w3.or/html5/spec-LC/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
 </a>
 <a style="text-decoration:none" href="https://www.w3.org/Style/CSS/Overview.en.html">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"> 
 </a>
 <a style="text-decoration:none" href="https://getbootstrap.com/">
-    <img height="42" src="https://wikiless.org/media/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap5">
+    <img height="42" src="https://wikiless.northboot.xyz/media/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap5">
 </a>
 <a style="text-decoration:none" href="https://www.ecma-international.org/ecma-262/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
 </a>
 <a style="text-decoration:none" href="https://www.php.net/">
-    <img height="42" src="https://wikiless.org/media/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP8"> 
+    <img height="42" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP8"> 
 </a>
 <a style="text-decoration:none" href="https://www.java.com/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java8"> 
@@ -148,7 +148,7 @@
     <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="NeoVim">
 </a>
 <a style="text-decoration:none" href="https://www.sublimetext.com/">
-    <img height="42" src="https://wikiless.org/media/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="SublimeText">
+    <img height="42" src="https://wikiless.northboot.xyz/media/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="SublimeText">
 </a>
 <a style="text-decoration:none" href="https://vscodium.com/">
     <img height="42" src="https://raw.githubusercontent.com/VSCodium/vscodium/master/src/stable/src/vs/workbench/browser/media/code-icon.svg" alt="VSCodium">
@@ -159,7 +159,7 @@
     <img height="42" src="wakingup.png" alt="Waking Up: Guided Meditation">
 </a>
 <a href="https://lichess.org/@/Psyhackological" style="text-decoration:none">
-    <img height="42" src="https://wikiless.org/media/wikipedia/commons/d/da/Lichess_Logo_2019.svg" alt="Lichess">
+    <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Lichess_Logo_2019.svg" alt="Lichess">
 </a>
 <a href="https://opensource.dev/" style="text-decoration:none">
     <img height="42" src="https://img.icons8.com/color/100/000000/open-source--v1.png" alt="OpenSource">
