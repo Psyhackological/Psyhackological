@@ -20,9 +20,6 @@
 <a style="text-decoration:none" href="https://privatebin.net/?518145c9c201db80#tUSoonCVvvMFtaNtjC8w4BxT7dyATu47AsntgPznsQC">
     <img height="32" src="https://img.shields.io/badge/Discord-738ADA?style=flat-square&logo=Discord&logoColor=F4F4F4" alt="Discord">
 </a>
-<a style="text-decoration:none" href="https://matrix.to/#/@psyhackological:matrix.org">
-    <img height="32" src="https://img.shields.io/badge/Element-0DBD8B?style=flat-square&logo=Element&logoColor=white" alt="Element.io">
-</a>
 
 ### Projects I'm currently working on
 <a style="text-decoration:none" href="https://github.com/Psyhackological/ytxt">
