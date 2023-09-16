@@ -5,18 +5,12 @@
 
 > "Take a one step at a time now."
 
-<p>
-    <div style="display: inline-block; max-width: 100%; vertical-align: top;">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img height="160em" alt="MyGitHubStats" src="https://github-readme-stats.vercel.app/api?username=Psyhackological&theme=nord&show_icons=true&count_private=true&hide_border=true">
-        </a>
-    </div>
-    <div style="display: inline-block; max-width: 100%; vertical-align: top;">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img height="160em" alt="MyMostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyhackological&layout=compact&theme=nord&hide_border=true">
-        </a>
-    </div>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" alt="MyGitHubStats" src="https://github-readme-stats.vercel.app/api?username=Psyhackological&theme=nord&show_icons=true&count_private=true&hide_border=true">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" alt="MyMostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyhackological&layout=compact&theme=nord&hide_border=true">
+</a>
 
 ### Ways to reach me
 <a style="text-decoration:none" href="mailto:konradkon@pm.me">
