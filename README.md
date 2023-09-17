@@ -41,7 +41,7 @@
 <a style="text-decoration:none" href="http://www.cplusplus.org/">
     <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++20">
 </a>
-<a style="text-decoration:none" href="https://dev.w3.or/html5/spec-LC/">
+<a style="text-decoration:none" href="https://dev.w3.org/html5/spec-LC/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
 </a>
 <a style="text-decoration:none" href="https://www.w3.org/Style/CSS/Overview.en.html">
