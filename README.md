@@ -114,6 +114,13 @@
 <a style="text-decoration:none" href="https://www.docker.com/">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="Docker">
 </a>
+<a style="text-decoration:none" href="https://www.ansible.com/">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible">
+</a>
+<a style="text-decoration:none" href="https://www.haskell.org/">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell">
+</a>
+
 
 
 ### I am going to learn [^5]
