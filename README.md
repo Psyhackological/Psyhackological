@@ -104,12 +104,8 @@
 <a style="text-decoration:none" href="https://inkscape.org/">
     <img height="42" src="https://media.inkscape.org/media/resources/file/inkscape.svg" alt="Inkscape">
 </a>
-
 <a style="text-decoration:none" href="https://ctflearn.com/">
     <img height="42" src="https://ctflearn.com//static/img/logo.png" alt="CTFlearn">
-</a>
-<a style="text-decoration:none" href="https://www.djangoproject.com/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django4">
 </a>
 <a style="text-decoration:none" href="https://www.docker.com/">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="Docker">
@@ -120,8 +116,6 @@
 <a style="text-decoration:none" href="https://www.haskell.org/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell">
 </a>
-
-
 
 ### I am going to learn [^5]
 <a style="text-decoration:none" href="https://microsoft.com/powershell">
@@ -138,6 +132,9 @@
 </a>
 <a style="text-decoration:none" href="https://www.lua.org/">
     <img height="42" src="https://wikiless.esmailelbob.xyz/media/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua">
+</a>
+<a style="text-decoration:none" href="https://www.djangoproject.com/">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django4">
 </a>
 
 ### My toolkit [^6]
