@@ -6,7 +6,7 @@
 > "Take a one step at a time now."
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" alt="MyGitHubStats" src="https://github-readme-stats.vercel.app/api?username=Psyhackological&theme=nord&show_icons=true&count_private=true&hide_border=true">
+    <img height="160em" alt="MyGitHubStats" src="https://github-readme-stats.vercel.app/api?username=Psyhackological&theme=nord&show_icons=true&count_private=true&hide_border=true&rank_icon=percentile">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="160em" alt="MyMostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyhackological&layout=compact&theme=nord&hide_border=true">
