@@ -12,6 +12,10 @@
     <img height="160em" alt="MyMostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyhackological&layout=compact&theme=nord&hide_border=true">
 </a>
 
+<a href="https://profile.codersrank.io/user/Psyhackological#Tech%20Skills">
+    <img width="800em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Psyhackological&padding=12&labels=true&legend=true&tooltip=true&branding=false&show-other-skills=true" />
+</a>
+
 ### Ways to reach me
 <a style="text-decoration:none" href="mailto:konradkon@pm.me">
     <img height="32" src="https://img.shields.io/badge/ProtonMail-454660?style=flat-square&logo=ProtonMail&logoColor=white" alt="ProtonMail">
