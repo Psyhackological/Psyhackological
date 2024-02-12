@@ -103,9 +103,6 @@
 <a style="text-decoration:none" href="https://www.gnu.org/software/bash/">
     <img height="42" src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash"> 
 </a>
-<a style="text-decoration:none" href="https://www.rust-lang.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust">
-</a>
 
 ### I am currently learning [^4]
 <a style="text-decoration:none" href="https://inkscape.org/">
@@ -120,19 +117,22 @@
 <a style="text-decoration:none" href="https://www.haskell.org/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell">
 </a>
+<a style="text-decoration:none" href="https://go.dev/">
+    <img height="42" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Go">
+</a>
 <a style="text-decoration:none" href="https://prometheus.io/">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/prometheus/prometheus-original.svg" alt="Prometheus">
 </a>
 <a style="text-decoration:none" href="https://grafana.com/">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/grafana/grafana-original.svg" alt="Grafana">
 </a>
+<a style="text-decoration:none" href="https://www.rust-lang.org/">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust">
+</a>
 
 ### I am going to learn [^5]
 <a style="text-decoration:none" href="ttps://microsoft.com/powershell">
     <img height="42" src="https://gist.githubusercontent.com/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="PowerShell"> 
-</a>
-<a style="text-decoration:none" href="https://go.dev/">
-    <img height="42" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Go">
 </a>
 <a style="text-decoration:none" href="https://www.gnu.org/software/emacs/">
     <img height="42" src="https://www.gnu.org/software/emacs/images/emacs.png" alt="GNU Emacs">
