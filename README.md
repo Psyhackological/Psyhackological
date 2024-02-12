@@ -146,8 +146,8 @@
 <a style="text-decoration:none" href="https://flutter.dev/">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg" alt="Flutter"> 
 </a>
-<a style="text-decoration:none" href="">
-    <img height="42" src="" alt=""> 
+<a style="text-decoration:none" href="https://developer.android.com/jetpack/compose">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jetpackcompose/jetpackcompose-original.svg" alt="JetpackCompose"> 
 </a>
 <a style="text-decoration:none" href="https://www.blender.org/">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/blender/blender-original.svg" alt="Blender"> 
