@@ -92,19 +92,16 @@
 <a style="text-decoration:none" href="https://www.kernel.org/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="GNU/Linux">
 </a>
+<a style="text-decoration:none" href="https://www.gnu.org/software/bash/">
+    <img height="42" src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash"> 
+</a>
 
 ### I've recently learnt [^3]
-<a style="text-decoration:none" href="https://www.vim.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim"> 
-</a>
 <a style="text-decoration:none" href="https://git-scm.com/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
 </a>
 <a style="text-decoration:none" href="https://wikiless.org/wiki/Regular_expression?lang=en">
     <img height="42" src="https://keestalkstech.com/wp-content/uploads/2020/06/regex_logo.png" alt="Regex">
-</a>
-<a style="text-decoration:none" href="https://www.gnu.org/software/bash/">
-    <img height="42" src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash"> 
 </a>
 
 ### I am currently learning [^4]
@@ -130,7 +127,7 @@
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/grafana/grafana-original.svg" alt="Grafana">
 </a>
 <a style="text-decoration:none" href="https://www.rust-lang.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" alt="Rust">
 </a>
 
 ### I am going to learn [^5]
