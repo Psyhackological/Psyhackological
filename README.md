@@ -69,6 +69,9 @@
 <a style="text-decoration:none" href="https://dotnet.microsoft.com/en-us/languages/csharp">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#9">
 </a>
+<a style="text-decoration:none" href="https://flutter.dev/">
+    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg" alt="Flutter"> 
+</a>
 <a style="text-decoration:none" href="https://www.r-project.org/">
     <img height="42" src="https://www.r-project.org/logo/Rlogo.svg" alt="R"> 
 </a>
@@ -145,6 +148,21 @@
 </a>
 <a style="text-decoration:none" href="https://www.djangoproject.com/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django4">
+</a>
+<a style="text-decoration:none" href="https://flutter.dev/">
+    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg" alt="Flutter"> 
+</a>
+<a style="text-decoration:none" href="">
+    <img height="42" src="" alt=""> 
+</a>
+<a style="text-decoration:none" href="https://www.blender.org/">
+    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/blender/blender-original.svg" alt="Blender"> 
+</a>
+<a style="text-decoration:none" href="https://julialang.org/">
+    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/julia/julia-original.svg" alt="Julia"> 
+</a>
+<a style="text-decoration:none" href="https://ocaml.org/">
+    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/ocaml/ocaml-original.svg" alt="OCaml"> 
 </a>
 
 ### My toolkit [^6]
