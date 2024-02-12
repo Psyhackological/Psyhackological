@@ -72,6 +72,9 @@
 <a style="text-decoration:none" href="https://www.r-project.org/">
     <img height="42" src="https://www.r-project.org/logo/Rlogo.svg" alt="R"> 
 </a>
+<a style="text-decoration:none" href="https://ctflearn.com/">
+    <img height="42" src="https://ctflearn.com//static/img/logo.png" alt="CTFlearn">
+</a>
 
 ### I am feeling confident at [^2]
 <a style="text-decoration:none" href="https://www.python.org/">
@@ -108,9 +111,6 @@
 <a style="text-decoration:none" href="https://inkscape.org/">
     <img height="42" src="https://media.inkscape.org/media/resources/file/inkscape.svg" alt="Inkscape">
 </a>
-<a style="text-decoration:none" href="https://ctflearn.com/">
-    <img height="42" src="https://ctflearn.com//static/img/logo.png" alt="CTFlearn">
-</a>
 <a style="text-decoration:none" href="https://www.docker.com/">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="Docker">
 </a>
@@ -120,9 +120,15 @@
 <a style="text-decoration:none" href="https://www.haskell.org/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell">
 </a>
+<a style="text-decoration:none" href="https://prometheus.io/">
+    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/prometheus/prometheus-original.svg" alt="Prometheus">
+</a>
+<a style="text-decoration:none" href="https://grafana.com/">
+    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/grafana/grafana-original.svg" alt="Grafana">
+</a>
 
 ### I am going to learn [^5]
-<a style="text-decoration:none" href="https://microsoft.com/powershell">
+<a style="text-decoration:none" href="ttps://microsoft.com/powershell">
     <img height="42" src="https://gist.githubusercontent.com/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="PowerShell"> 
 </a>
 <a style="text-decoration:none" href="https://go.dev/">
