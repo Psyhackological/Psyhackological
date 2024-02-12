@@ -131,9 +131,6 @@
 </a>
 
 ### I am going to learn [^5]
-<a style="text-decoration:none" href="ttps://microsoft.com/powershell">
-    <img height="42" src="https://gist.githubusercontent.com/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="PowerShell"> 
-</a>
 <a style="text-decoration:none" href="https://www.gnu.org/software/emacs/">
     <img height="42" src="https://www.gnu.org/software/emacs/images/emacs.png" alt="GNU Emacs">
 </a>
@@ -163,23 +160,17 @@
 </a>
 
 ### My toolkit [^6]
+<a style="text-decoration:none" href="https://alacritty.org/">
+    <img height="42" src="https://alacritty.org/alacritty-simple.svg" alt="Alacritty">
+</a>
 <a style="text-decoration:none" href="https://endeavouros.com/">
     <img height="42" src="https://endeavouros.com/wp-content/uploads/2021/04/eos-icon.png" alt="endeavourOS">
-</a>
-<a style="text-decoration:none" href="https://www.jetbrains.com/pycharm/">
-    <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm">
-</a>
-<a style="text-decoration:none" href="https://plugins.jetbrains.com/plugin/164-ideavim">
-    <img height="42" src="https://plugins.jetbrains.com/files/164/159216/icon/pluginIcon.svg" alt="IdeaVim">
 </a>
 <a style="text-decoration:none" href="https://neovim.io/">
     <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="NeoVim">
 </a>
 <a style="text-decoration:none" href="https://www.sublimetext.com/">
     <img height="42" src="https://wikiless.northboot.xyz/media/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="SublimeText">
-</a>
-<a style="text-decoration:none" href="https://vscodium.com/">
-    <img height="42" src="https://raw.githubusercontent.com/VSCodium/vscodium/master/src/stable/src/vs/workbench/browser/media/code-icon.svg" alt="VSCodium">
 </a>
 
 ### Besides programming, I adore 
