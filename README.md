@@ -29,7 +29,7 @@
 
 ### Projects I'm currently working on
 <a style="text-decoration:none" href="https://github.com/Psyhackological/ytxt">
-    <img height="42" src="https://github.com/Psyhackological/ytxt/raw/main/img/ytxt_logo.svg" alt="ytxt">
+    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/ytxt/main/img/ytxt_logo.svg" alt="ytxt">
 </a>
 <a style="text-decoration:none" href="https://github.com/Psyhackological/youtubist">
     <img height="42" src="https://raw.githubusercontent.com/Psyhackological/youtubist/main/img/youtubist_plain.svg" alt="youtubist">
@@ -43,37 +43,37 @@
 
 ### I used to work with [^1]
 <a style="text-decoration:none" href="http://www.cplusplus.org/">
-    <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++20">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
 </a>
 <a style="text-decoration:none" href="https://dev.w3.org/html5/spec-LC/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML">
 </a>
 <a style="text-decoration:none" href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"> 
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"> 
 </a>
 <a style="text-decoration:none" href="https://getbootstrap.com/">
-    <img height="42" src="https://wikiless.northboot.xyz/media/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap5">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap">
 </a>
 <a style="text-decoration:none" href="https://www.ecma-international.org/ecma-262/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
 </a>
 <a style="text-decoration:none" href="https://www.php.net/">
-    <img height="42" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP8"> 
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"> 
 </a>
 <a style="text-decoration:none" href="https://www.java.com/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java8"> 
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"> 
 </a>
 <a style="text-decoration:none" href="https://www.adobe.com/products/photoshop.html">
-    <img height="42" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="Adobe Photoshop">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop">
 </a>
 <a style="text-decoration:none" href="https://dotnet.microsoft.com/en-us/languages/csharp">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#9">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
 </a>
 <a style="text-decoration:none" href="https://flutter.dev/">
-    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg" alt="Flutter"> 
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter"> 
 </a>
 <a style="text-decoration:none" href="https://www.r-project.org/">
-    <img height="42" src="https://www.r-project.org/logo/Rlogo.svg" alt="R"> 
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R"> 
 </a>
 <a style="text-decoration:none" href="https://ctflearn.com/">
     <img height="42" src="https://ctflearn.com//static/img/logo.png" alt="CTFlearn">
@@ -81,19 +81,19 @@
 
 ### I am feeling confident at [^2]
 <a style="text-decoration:none" href="https://www.python.org/">
-    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="Python3">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python3">
 </a>
 <a style="text-decoration:none" href="https://www.microsoft.com/en-us/windows/get-windows-10">
-    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" alt="Windows10">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows10">
 </a>
 <a style="text-decoration:none" href="https://www.android.com/">
-    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/android/android-plain.svg" alt="Android">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android">
 </a>
 <a style="text-decoration:none" href="https://www.kernel.org/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="GNU/Linux">
 </a>
 <a style="text-decoration:none" href="https://www.gnu.org/software/bash/">
-    <img height="42" src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash"> 
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash"> 
 </a>
 
 ### I've recently learnt [^3]
@@ -106,7 +106,7 @@
 
 ### I am currently learning [^4]
 <a style="text-decoration:none" href="https://inkscape.org/">
-    <img height="42" src="https://media.inkscape.org/media/resources/file/inkscape.svg" alt="Inkscape">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" alt="Inkscape">
 </a>
 <a style="text-decoration:none" href="https://www.docker.com/">
     <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="Docker">
@@ -118,67 +118,67 @@
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell">
 </a>
 <a style="text-decoration:none" href="https://go.dev/">
-    <img height="42" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Go">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go">
 </a>
 <a style="text-decoration:none" href="https://prometheus.io/">
-    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/prometheus/prometheus-original.svg" alt="Prometheus">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus">
 </a>
 <a style="text-decoration:none" href="https://grafana.com/">
-    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/grafana/grafana-original.svg" alt="Grafana">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana">
 </a>
 <a style="text-decoration:none" href="https://www.rust-lang.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" alt="Rust">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust">
 </a>
 
 ### I am going to learn [^5]
 <a style="text-decoration:none" href="https://www.gnu.org/software/emacs/">
-    <img height="42" src="https://www.gnu.org/software/emacs/images/emacs.png" alt="GNU Emacs">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/emacs/emacs-original.svg" alt="GNU Emacs">
 </a>
 <a style="text-decoration:none" href="https://www.gimp.org/">
-    <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="Gimp">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="Gimp">
 </a>
 <a style="text-decoration:none" href="https://www.lua.org/">
-    <img height="42" src="https://wikiless.esmailelbob.xyz/media/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua">
 </a>
 <a style="text-decoration:none" href="https://www.djangoproject.com/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django4">
 </a>
 <a style="text-decoration:none" href="https://flutter.dev/">
-    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg" alt="Flutter"> 
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter"> 
 </a>
 <a style="text-decoration:none" href="https://developer.android.com/jetpack/compose">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jetpackcompose/jetpackcompose-original.svg" alt="JetpackCompose"> 
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="JetpackCompose"> 
 </a>
 <a style="text-decoration:none" href="https://www.blender.org/">
-    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/blender/blender-original.svg" alt="Blender"> 
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender"> 
 </a>
 <a style="text-decoration:none" href="https://julialang.org/">
-    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/julia/julia-original.svg" alt="Julia"> 
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia"> 
 </a>
 <a style="text-decoration:none" href="https://ocaml.org/">
-    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/ocaml/ocaml-original.svg" alt="OCaml"> 
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" alt="OCaml"> 
 </a>
 
 ### My toolkit [^6]
 <a style="text-decoration:none" href="https://alacritty.org/">
-    <img height="42" src="https://alacritty.org/alacritty-simple.svg" alt="Alacritty">
+    <img height="42" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/alacritty-term.svg" alt="Alacritty">
 </a>
 <a style="text-decoration:none" href="https://endeavouros.com/">
-    <img height="42" src="https://endeavouros.com/wp-content/uploads/2021/04/eos-icon.png" alt="endeavourOS">
+    <img height="42" src="https://github.com/endeavouros-team/endeavouros-theming/blob/master/EndeavourOS-icon.png" alt="endeavourOS">
 </a>
 <a style="text-decoration:none" href="https://neovim.io/">
-    <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="NeoVim">
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="NeoVim">
 </a>
 <a style="text-decoration:none" href="https://www.sublimetext.com/">
-    <img height="42" src="https://wikiless.northboot.xyz/media/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="SublimeText">
+    <img height="42" src="https://www.sublimehq.com/images/sublime_text.png" alt="SublimeText">
 </a>
 
 ### Besides programming, I adore 
 <a href="https://dynamic.wakingup.com/shareOpenAccess/603789" style="text-decoration:none">
-    <img height="42" src="wakingup.png" alt="Waking Up: Guided Meditation">
+    <img height="42" src="https://d2uk1wgjryl0y1.cloudfront.net/shared/images/1659_fb662c69-cf7e-4c1a-9308-cfeb393cc06a_thumb_x1" alt="Waking Up: Guided Meditation">
 </a>
 <a href="https://lichess.org/@/Psyhackological" style="text-decoration:none">
-    <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Lichess_Logo_2019.svg" alt="Lichess">
+    <img height="42" src="https://raw.githubusercontent.com/lichess-org/lila/master/public/logo/lichess.svg" alt="Lichess">
 </a>
 <a href="https://opensource.dev/" style="text-decoration:none">
     <img height="42" src="https://img.icons8.com/color/100/000000/open-source--v1.png" alt="OpenSource">
