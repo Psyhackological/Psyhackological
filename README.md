@@ -93,7 +93,7 @@
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="GNU/Linux">
 </a>
 <a style="text-decoration:none" href="https://www.gnu.org/software/bash/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash"> 
+    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="Bash"> 
 </a>
 
 ### I've recently learnt [^3]
@@ -175,10 +175,10 @@
 
 ### Besides programming, I adore 
 <a href="https://dynamic.wakingup.com/shareOpenAccess/603789" style="text-decoration:none">
-    <img height="42" src="https://d2uk1wgjryl0y1.cloudfront.net/shared/images/1659_fb662c69-cf7e-4c1a-9308-cfeb393cc06a_thumb_x1" alt="Waking Up: Guided Meditation">
+    <img height="42" src="https://raw.githubusercontent.com/Arcticons-Team/Arcticons/main/icons/white/waking_up.svg" alt="Waking Up: Guided Meditation">
 </a>
 <a href="https://lichess.org/@/Psyhackological" style="text-decoration:none">
-    <img height="42" src="https://raw.githubusercontent.com/lichess-org/lila/master/public/logo/lichess.svg" alt="Lichess">
+    <img height="42" src="https://raw.githubusercontent.com/lichess-org/lila/master/public/logo/lichess-white.svg" alt="Lichess">
 </a>
 <a href="https://opensource.dev/" style="text-decoration:none">
     <img height="42" src="https://img.icons8.com/color/100/000000/open-source--v1.png" alt="OpenSource">
