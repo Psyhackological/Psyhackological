@@ -129,6 +129,9 @@
 <a style="text-decoration:none" href="https://www.rust-lang.org/">
     <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust">
 </a>
+<a style="text-decoration:none" href="https://www.openstack.org/software/releases/caracal/components/kolla-ansible">
+    <img height="42" src="https://www.openstack.org/software/images/mascots/kolla-ansible.png" alt="KollaAnsible">
+</a>
 
 ### I am going to learn [^5]
 <a style="text-decoration:none" href="https://www.gnu.org/software/emacs/">
