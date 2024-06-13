@@ -1,197 +1,155 @@
-## Hi there! <img alt="HiGif" height="32" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> I'm Konrad Konieczny.
-> "Thinking about it is hard, doing it is easy."
+# My Stacks
 
-> "Learn, practice, repeat."
+## Social
 
-> "Take a one step at a time now."
+![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=flat-square)
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)
+![Proton Mail Badge](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff&style=flat-square)
+![Lemmy Badge](https://img.shields.io/badge/Lemmy-000?logo=lemmy&logoColor=fff&style=flat-square)
+![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" alt="MyGitHubStats" src="https://github-readme-stats.vercel.app/api?username=Psyhackological&theme=nord&show_icons=true&count_private=true&hide_border=true&rank_icon=percentile">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" alt="MyMostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyhackological&layout=compact&theme=nord&hide_border=true">
-</a>
+## AI
+![OpenAI Gym Badge](https://img.shields.io/badge/OpenAI%20Gym-0081A5?logo=openaigym&logoColor=fff&style=flat-square)
+![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=flat-square)
 
-<a href="https://profile.codersrank.io/user/Psyhackological#Tech%20Skills">
-    <img width="800em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Psyhackological&padding=12&labels=true&legend=true&tooltip=true&branding=false&show-other-skills=true" />
-</a>
 
-### Ways to reach me
-<a style="text-decoration:none" href="mailto:konradkon@pm.me">
-    <img height="32" src="https://img.shields.io/badge/ProtonMail-454660?style=flat-square&logo=ProtonMail&logoColor=white" alt="ProtonMail">
-</a>
-<a style="text-decoration:none" href="https://www.linkedin.com/in/konradkon/">
-    <img height="32" src="https://img.shields.io/badge/LinkedIn-2567B3?style=flat-square&logo=LinkedIn&logoColor=FCFBF6" alt="LinkedIn">
-</a>
-<a style="text-decoration:none" href="https://privatebin.net/?518145c9c201db80#tUSoonCVvvMFtaNtjC8w4BxT7dyATu47AsntgPznsQC">
-    <img height="32" src="https://img.shields.io/badge/Discord-738ADA?style=flat-square&logo=Discord&logoColor=F4F4F4" alt="Discord">
-</a>
+## Cloud
 
-### Projects I'm currently working on
-<a style="text-decoration:none" href="https://github.com/Psyhackological/ytxt">
-    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/ytxt/main/img/ytxt_logo.svg" alt="ytxt">
-</a>
-<a style="text-decoration:none" href="https://github.com/Psyhackological/youtubist">
-    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/youtubist/main/img/youtubist_plain.svg" alt="youtubist">
-</a>
-<a style="text-decoration:none" href="https://github.com/Psyhackological/DDD">
-    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/DDD/main/img/ddd_plain.svg" alt="Darknet Diaries Downloader">
-</a>
-<a style="text-decoration:none" href="https://github.com/Psyhackological/AAA">
-    <img height="42" src="https://raw.githubusercontent.com/Psyhackological/AAA/main/img/AAA_short_plain.svg" alt="AAA">
-</a>
+![Rocky Badge](https://img.shields.io/badge/Rocky-10B981?logo=rockylinux&logoColor=fff&style=flat-square)
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square)
+![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat-square)
+![OpenStack Badge](https://img.shields.io/badge/OpenStack-ED1944?logo=openstack&logoColor=fff&style=flat-square)
+![Ceph Badge](https://img.shields.io/badge/Ceph-EF5C55?logo=ceph&logoColor=fff&style=flat-square)
+![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat-square)
+![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat-square)
+![CheckMK Badge](https://img.shields.io/badge/CheckMK-15D1A0?logo=checkmk&logoColor=fff&style=flat-square)
+![Ansible Badge](https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat-square)
+![Jinja Badge](https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=fff&style=flat-square)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)
+![Podman Badge](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=fff&style=flat-square)
+![LXC Badge](https://img.shields.io/badge/LXC-333?logo=linuxcontainers&logoColor=fff&style=flat-square)
 
-### I used to work with [^1]
-<a style="text-decoration:none" href="http://www.cplusplus.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
-</a>
-<a style="text-decoration:none" href="https://dev.w3.org/html5/spec-LC/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML">
-</a>
-<a style="text-decoration:none" href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"> 
-</a>
-<a style="text-decoration:none" href="https://getbootstrap.com/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap">
-</a>
-<a style="text-decoration:none" href="https://www.ecma-international.org/ecma-262/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-</a>
-<a style="text-decoration:none" href="https://www.php.net/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"> 
-</a>
-<a style="text-decoration:none" href="https://www.java.com/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"> 
-</a>
-<a style="text-decoration:none" href="https://www.adobe.com/products/photoshop.html">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop">
-</a>
-<a style="text-decoration:none" href="https://dotnet.microsoft.com/en-us/languages/csharp">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
-</a>
-<a style="text-decoration:none" href="https://flutter.dev/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter"> 
-</a>
-<a style="text-decoration:none" href="https://www.r-project.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R"> 
-</a>
-<a style="text-decoration:none" href="https://ctflearn.com/">
-    <img height="42" src="https://ctflearn.com//static/img/logo.png" alt="CTFlearn">
-</a>
+## Automation
 
-### I am feeling confident at [^2]
-<a style="text-decoration:none" href="https://www.python.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python3">
-</a>
-<a style="text-decoration:none" href="https://www.microsoft.com/en-us/windows/get-windows-10">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows10">
-</a>
-<a style="text-decoration:none" href="https://www.android.com/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android">
-</a>
-<a style="text-decoration:none" href="https://www.kernel.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="GNU/Linux">
-</a>
-<a style="text-decoration:none" href="https://www.gnu.org/software/bash/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="Bash"> 
-</a>
+![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat-square)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat-square)
+![GNU Badge](https://img.shields.io/badge/GNU-A42E2B?logo=gnu&logoColor=fff&style=flat-square)
+![Regex Badge](https://img.shields.io/badge/Regex-19AF5D?logo=adventofcode&logoColor=fff&style=flat-square)
 
-### I've recently learnt [^3]
-<a style="text-decoration:none" href="https://git-scm.com/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
-</a>
-<a style="text-decoration:none" href="https://wikiless.org/wiki/Regular_expression?lang=en">
-    <img height="42" src="https://keestalkstech.com/wp-content/uploads/2020/06/regex_logo.png" alt="Regex">
-</a>
+## Systems programming
 
-### I am currently learning [^4]
-<a style="text-decoration:none" href="https://inkscape.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" alt="Inkscape">
-</a>
-<a style="text-decoration:none" href="https://www.docker.com/">
-    <img height="42" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="Docker">
-</a>
-<a style="text-decoration:none" href="https://www.ansible.com/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible">
-</a>
-<a style="text-decoration:none" href="https://www.haskell.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell">
-</a>
-<a style="text-decoration:none" href="https://go.dev/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go">
-</a>
-<a style="text-decoration:none" href="https://prometheus.io/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus">
-</a>
-<a style="text-decoration:none" href="https://grafana.com/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana">
-</a>
-<a style="text-decoration:none" href="https://www.rust-lang.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust">
-</a>
-<a style="text-decoration:none" href="https://www.openstack.org/software/releases/caracal/components/kolla-ansible">
-    <img height="42" src="https://www.openstack.org/software/images/mascots/kolla-ansible.png" alt="KollaAnsible">
-</a>
+![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
+![Zig Badge](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff&style=flat-square)
 
-### I am going to learn [^5]
-<a style="text-decoration:none" href="https://www.gnu.org/software/emacs/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/emacs/emacs-original.svg" alt="GNU Emacs">
-</a>
-<a style="text-decoration:none" href="https://www.gimp.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="Gimp">
-</a>
-<a style="text-decoration:none" href="https://www.lua.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua">
-</a>
-<a style="text-decoration:none" href="https://www.djangoproject.com/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django4">
-</a>
-<a style="text-decoration:none" href="https://flutter.dev/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter"> 
-</a>
-<a style="text-decoration:none" href="https://developer.android.com/jetpack/compose">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="JetpackCompose"> 
-</a>
-<a style="text-decoration:none" href="https://www.blender.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender"> 
-</a>
-<a style="text-decoration:none" href="https://julialang.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia"> 
-</a>
-<a style="text-decoration:none" href="https://ocaml.org/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" alt="OCaml"> 
-</a>
+## Data Science
 
-### My toolkit [^6]
-<a style="text-decoration:none" href="https://alacritty.org/">
-    <img height="42" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/alacritty-term.svg" alt="Alacritty">
-</a>
-<a style="text-decoration:none" href="https://endeavouros.com/">
-    <img height="42" src="https://github.com/endeavouros-team/endeavouros-theming/blob/master/EndeavourOS-icon.png" alt="endeavourOS">
-</a>
-<a style="text-decoration:none" href="https://neovim.io/">
-    <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="NeoVim">
-</a>
-<a style="text-decoration:none" href="https://www.sublimetext.com/">
-    <img height="42" src="https://www.sublimehq.com/images/sublime_text.png" alt="SublimeText">
-</a>
+![Julia Badge](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=fff&style=flat-square)
+![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square)
+![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
+![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square)
+![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat-square)
+![Apache Spark Badge](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=flat-square)
+![Apache Hadoop Badge](https://img.shields.io/badge/Apache%20Hadoop-6CF?logo=apachehadoop&logoColor=fff&style=flat-square)
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat-square)
+![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=flat-square)
+![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat-square)
 
-### Besides programming, I adore 
-<a href="https://dynamic.wakingup.com/shareOpenAccess/603789" style="text-decoration:none">
-    <img height="42" src="https://raw.githubusercontent.com/Arcticons-Team/Arcticons/main/icons/white/waking_up.svg" alt="Waking Up: Guided Meditation">
-</a>
-<a href="https://lichess.org/@/Psyhackological" style="text-decoration:none">
-    <img height="42" src="https://raw.githubusercontent.com/lichess-org/lila/master/public/logo/lichess-white.svg" alt="Lichess">
-</a>
-<a href="https://opensource.dev/" style="text-decoration:none">
-    <img height="42" src="https://img.icons8.com/color/100/000000/open-source--v1.png" alt="OpenSource">
-</a>
+## Operating System
 
-### Check out my MarkDown [notes](https://github.com/Psyhackological/notes) and [freeCodeCamp progress](https://github.com/Psyhackological/freeCodeCamp)!
+![Android Badge](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=fff&style=flat-square)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=flat-square)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square)
 
-[^1]: I've dabbled in it before, but I can't say I'm a total pro right now. Still, it'll probably be easier to get back in the groove.
-[^2]: I've put in some serious hours, and I know how to work those bad boys super efficiently.
-[^3]: I jumped right in and started using them without much outside help. (Okay, maybe just a tiny bit here and there!)
-[^4]: I've been learning this rad stuff in my own time, outside of school.
-[^5]: I want to dive in, level up my skills, and have a blast with this wicked tech.
-[^6]: I'm using this sweet helper software to whip up even more software.
+## Hobby
+
+![Lichess Badge](https://img.shields.io/badge/Lichess-000?logo=lichess&logoColor=fff&style=flat-square)
+![Open Source Badge](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=fff&style=flat-square)
+![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=flat-square)
+![Waking Up Badge](https://img.shields.io/badge/Waking%20Up-212256?logo=headspace&logoColor=0AC8D4&style=flat-square)
+![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat-square)
+![qBittorrent Badge](https://img.shields.io/badge/qBittorrent-2F67BA?logo=qbittorrent&logoColor=fff&style=flat-square)
+
+## Creative
+
+![GIMP Badge](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=flat-square)
+![Blender Badge](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff&style=flat-square)
+![Inkscape Badge](https://img.shields.io/badge/Inkscape-000?logo=inkscape&logoColor=fff&style=flat-square)
+![Kdenlive Badge](https://img.shields.io/badge/Kdenlive-527EB2?logo=kdenlive&logoColor=fff&style=flat-square)
+![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat-square)
+
+## Mobile
+
+![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=flat-square)
+![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=flat-square)
+![Jetpack Compose Badge](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=fff&style=flat-square)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat-square)
+
+## Web
+
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat-square)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat-square)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square)
+
+## Game
+
+![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat-square)
+![Godot Engine Badge](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat-square)
+![Bevy Badge](https://img.shields.io/badge/Bevy-232326?logo=bevy&logoColor=fff&style=flat-square)
+
+## Functional
+
+![OCaml Badge](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff&style=flat-square)
+![Haskell Badge](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=fff&style=flat-square)
+![Elixir Badge](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=fff&style=flat-square)
+
+## Office
+
+![Microsoft PowerPoint Badge](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=fff&style=flat-square)
+![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=flat-square)
+![Microsoft Word Badge](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoftword&logoColor=fff&style=flat-square)
+![Microsoft Access Badge](https://img.shields.io/badge/Microsoft%20Access-A4373A?logo=microsoftaccess&logoColor=fff&style=flat-square)
+![LibreOffice Writer Badge](https://img.shields.io/badge/LibreOffice%20Writer-083FA6?logo=libreofficewriter&logoColor=fff&style=flat-square)
+![LibreOffice Calc Badge](https://img.shields.io/badge/LibreOffice%20Calc-007C3C?logo=libreofficecalc&logoColor=fff&style=flat-square)
+![LibreOffice Impress Badge](https://img.shields.io/badge/LibreOffice%20Impress-D0120D?logo=libreofficeimpress&logoColor=fff&style=flat-square)
+![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat-square)
+
+## Database
+
+![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=flat-square)
+![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat-square)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
+
+## Academic
+
+![C# Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=flat-square)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=flat-square)
+
+## Setup
+
+![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat-square)
+![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat-square)
+![Fedora Badge](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff&style=flat-square)
+![System76 Badge](https://img.shields.io/badge/System76-585048?logo=system76&logoColor=fff&style=flat-square)
+![Pop!_OS Badge](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff&style=flat-square)
+![Alacritty Badge](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff&style=flat-square)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
+![GrapheneOS Badge](https://img.shields.io/badge/GrapheneOS-0053A3?logo=grapheneos&logoColor=fff&style=flat-square)
+![Bitwarden Badge](https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=fff&style=flat-square)
+![LibreWolf Badge](https://img.shields.io/badge/LibreWolf-4CACF8?logo=firefox&logoColor=fff&style=flat-square)
+![uBlock Origin Badge](https://img.shields.io/badge/uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff&style=flat-square)
+![Codeberg Badge](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff&style=flat-square)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
+![Signal Badge](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff&style=flat-square)
+![RSS Badge](https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=fff&style=flat-square)
+
+
+
+## Companies
+
+![Red Hat Badge](https://img.shields.io/badge/Red%20Hat-E00?logo=redhat&logoColor=fff&style=flat-square)
+![Linux Foundation Badge](https://img.shields.io/badge/Linux%20Foundation-003778?logo=linuxfoundation&logoColor=fff&style=flat-square)
