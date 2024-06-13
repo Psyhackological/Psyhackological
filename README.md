@@ -9,6 +9,7 @@
 ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)
 
 ## AI
+
 ![OpenAI Gym Badge](https://img.shields.io/badge/OpenAI%20Gym-0081A5?logo=openaigym&logoColor=fff&style=flat-square)
 ![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=flat-square)
 
@@ -16,18 +17,23 @@
 ## Cloud
 
 ![Rocky Badge](https://img.shields.io/badge/Rocky-10B981?logo=rockylinux&logoColor=fff&style=flat-square)
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square)
 ![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat-square)
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square)
+
 ![OpenStack Badge](https://img.shields.io/badge/OpenStack-ED1944?logo=openstack&logoColor=fff&style=flat-square)
 ![Ceph Badge](https://img.shields.io/badge/Ceph-EF5C55?logo=ceph&logoColor=fff&style=flat-square)
-![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat-square)
-![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat-square)
-![CheckMK Badge](https://img.shields.io/badge/CheckMK-15D1A0?logo=checkmk&logoColor=fff&style=flat-square)
+![QEMU Badge](https://img.shields.io/badge/QEMU-F60?logo=qemu&logoColor=fff&style=flat-square)
+
 ![Ansible Badge](https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat-square)
 ![Jinja Badge](https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=fff&style=flat-square)
+
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)
 ![Podman Badge](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=fff&style=flat-square)
 ![LXC Badge](https://img.shields.io/badge/LXC-333?logo=linuxcontainers&logoColor=fff&style=flat-square)
+
+![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat-square)
+![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat-square)
+![CheckMK Badge](https://img.shields.io/badge/CheckMK-15D1A0?logo=checkmk&logoColor=fff&style=flat-square)
 
 ## Automation
 
