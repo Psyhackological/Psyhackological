@@ -2,11 +2,12 @@
 
 ## Social
 
-![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=flat-square)
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)
-![Proton Mail Badge](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff&style=flat-square)
-![Lemmy Badge](https://img.shields.io/badge/Lemmy-000?logo=lemmy&logoColor=fff&style=flat-square)
-![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)
+[![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=flat-square)](https://exercism.org/profiles/Psyhackological)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/konradkon/)
+[![Proton Mail Badge](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff&style=flat-square)](mailto:konradkon@pm.me)
+[![Lemmy Badge](https://img.shields.io/badge/Lemmy-000?logo=lemmy&logoColor=fff&style=flat-square)](https://lemmy.ml/u/Psyhackological)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)](https://discord.com/users/@konradkon)
+[![Mastodon Badge](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=flat-square)](https://mastodon.social/@Psyhackological)
 
 ## AI
 
