@@ -2,35 +2,35 @@
 
 ## :busts_in_silhouette: Social
 
-[![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=flat-square)](https://exercism.org/profiles/Psyhackological)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/konradkon/)
 [![Proton Mail Badge](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff&style=flat-square)](mailto:konradkon@pm.me)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/konradkon/)
+[![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=flat-square)](https://exercism.org/profiles/Psyhackological)
 [![Lemmy Badge](https://img.shields.io/badge/Lemmy-000?logo=lemmy&logoColor=fff&style=flat-square)](https://lemmy.ml/u/Psyhackological)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)](https://discord.com/users/@konradkon)
 [![Mastodon Badge](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=flat-square)](https://mastodon.social/@Psyhackological)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)](https://discord.com/users/@konradkon)
 
 ## :cloud: Cloud
-
-[![Rocky Badge](https://img.shields.io/badge/Rocky-10B981?logo=rockylinux&logoColor=fff&style=flat-square)](https://rockylinux.org/)
-[![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat-square)](https://www.debian.org/)
-[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square)](https://ubuntu.com/)
 
 [![OpenStack Badge](https://img.shields.io/badge/OpenStack-ED1944?logo=openstack&logoColor=fff&style=flat-square)](https://www.openstack.org/)
 [![Ceph Badge](https://img.shields.io/badge/Ceph-EF5C55?logo=ceph&logoColor=fff&style=flat-square)](https://ceph.io/en/)
 [![QEMU Badge](https://img.shields.io/badge/QEMU-F60?logo=qemu&logoColor=fff&style=flat-square)](https://www.qemu.org/)
+
+[![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)](https://linuxcontainers.org/)
+[![Podman Badge](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=fff&style=flat-square)](https://podman.io/)
+[![LXC Badge](https://img.shields.io/badge/LXC-333?logo=linuxcontainers&logoColor=fff&style=flat-square)](https://linuxcontainers.org/)
 
 [![Ansible Badge](https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat-square)](https://www.ansible.com/)
 [![Jinja Badge](https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=fff&style=flat-square)](https://palletsprojects.com/p/jinja/)
 [![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat-square)](https://www.gnu.org/software/bash/)
 [![GNU Badge](https://img.shields.io/badge/GNU-A42E2B?logo=gnu&logoColor=fff&style=flat-square)](https://www.gnu.org/software/coreutils/)
 
-[![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)](https://linuxcontainers.org/)
-[![Podman Badge](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=fff&style=flat-square)](https://podman.io/)
-[![LXC Badge](https://img.shields.io/badge/LXC-333?logo=linuxcontainers&logoColor=fff&style=flat-square)](https://linuxcontainers.org/)
-
 [![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat-square)](https://prometheus.io/)
 [![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat-square)](https://grafana.com/)
 [![CheckMK Badge](https://img.shields.io/badge/CheckMK-15D1A0?logo=checkmk&logoColor=fff&style=flat-square)](https://checkmk.com/)
+
+[![Rocky Badge](https://img.shields.io/badge/Rocky-10B981?logo=rockylinux&logoColor=fff&style=flat-square)](https://rockylinux.org/)
+[![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat-square)](https://www.debian.org/)
+[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square)](https://ubuntu.com/)
 
 ## :gear: Systems programming
 
@@ -39,25 +39,24 @@
 
 ## :bar_chart: Data Science
 
-[![Julia Badge](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=fff&style=flat-square)](https://julialang.org/)
-[![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square)](https://www.r-project.org/)
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)](https://www.python.org/)
-
-[![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat-square)](https://jupyter.org/)
 [![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square)](https://pandas.pydata.org/)
 [![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square)](https://numpy.org/)
 [![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat-square)](https://scikit-learn.org/)
 
-[![Databricks Badge](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff&style=flat-square)](https://hadoop.apache.org/)
+[![Databricks Badge](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff&style=flat-square)](https://www.databricks.com/)
 [![Apache Spark Badge](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=flat-square)](https://spark.apache.org/)
 [![Apache Hadoop Badge](https://img.shields.io/badge/Apache%20Hadoop-6CF?logo=apachehadoop&logoColor=fff&style=flat-square)](https://hadoop.apache.org/)
+
+[![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat-square)](https://jupyter.org/)
+[![Julia Badge](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=fff&style=flat-square)](https://julialang.org/)
+[![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square)](https://www.r-project.org/)
 
 ## :desktop_computer: Operating System
 
 [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square)](https://www.linux.org/)
 [![Android Badge](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=fff&style=flat-square)](https://www.android.com/)
 [![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=flat-square)](https://windows.com/)
-
 
 ## :trophy: Hobby
 
