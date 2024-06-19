@@ -38,7 +38,7 @@
 ![GNU Badge](https://img.shields.io/badge/GNU-A42E2B?logo=gnu&logoColor=fff&style=flat-square)
 ![Regex Badge](https://img.shields.io/badge/Regex-19AF5D?logo=adventofcode&logoColor=fff&style=flat-square)
 
-## Systems programming
+## :gear: Systems programming
 
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
