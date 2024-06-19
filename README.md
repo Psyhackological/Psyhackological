@@ -9,12 +9,6 @@
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)](https://discord.com/users/@konradkon)
 [![Mastodon Badge](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=flat-square)](https://mastodon.social/@Psyhackological)
 
-## AI
-
-![OpenAI Gym Badge](https://img.shields.io/badge/OpenAI%20Gym-0081A5?logo=openaigym&logoColor=fff&style=flat-square)
-![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=flat-square)
-
-
 ## Cloud
 
 ![Rocky Badge](https://img.shields.io/badge/Rocky-10B981?logo=rockylinux&logoColor=fff&style=flat-square)
