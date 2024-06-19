@@ -1,6 +1,6 @@
 # My Stacks
 
-## Social
+## :busts_in_silhouette: Social
 
 [![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=flat-square)](https://exercism.org/profiles/Psyhackological)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/konradkon/)
