@@ -56,7 +56,7 @@
 
 [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square)](https://www.linux.org/)
 [![Android Badge](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=fff&style=flat-square)](https://www.android.com/)
-[![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=flat-square)](https://windows.com/)
+[![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=flat-square)](https://www.microsoft.com/en-us/windows)
 
 ## :trophy: Hobby
 
