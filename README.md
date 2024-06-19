@@ -21,6 +21,8 @@
 
 [![Ansible Badge](https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat-square)](https://www.ansible.com/)
 [![Jinja Badge](https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=fff&style=flat-square)](https://palletsprojects.com/p/jinja/)
+[![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat-square)](https://www.gnu.org/software/bash/)
+[![GNU Badge](https://img.shields.io/badge/GNU-A42E2B?logo=gnu&logoColor=fff&style=flat-square)](https://www.gnu.org/software/coreutils/)
 
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)](https://linuxcontainers.org/)
 [![Podman Badge](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=fff&style=flat-square)](https://podman.io/)
@@ -30,22 +32,14 @@
 [![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat-square)](https://grafana.com/)
 [![CheckMK Badge](https://img.shields.io/badge/CheckMK-15D1A0?logo=checkmk&logoColor=fff&style=flat-square)](https://checkmk.com/)
 
-## :robot: Automation
-
-![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat-square)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat-square)
-![GNU Badge](https://img.shields.io/badge/GNU-A42E2B?logo=gnu&logoColor=fff&style=flat-square)
-![Regex Badge](https://img.shields.io/badge/Regex-19AF5D?logo=adventofcode&logoColor=fff&style=flat-square)
-
 ## :gear: Systems programming
 
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
-![Zig Badge](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff&style=flat-square)
 
 ## :bar_chart: Data Science
 
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
 ![Julia Badge](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=fff&style=flat-square)
 ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
@@ -147,8 +141,6 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
 ![Signal Badge](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff&style=flat-square)
 ![RSS Badge](https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=fff&style=flat-square)
-
-
 
 ## :star: Liked Companies
 
