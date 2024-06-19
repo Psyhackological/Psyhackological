@@ -150,7 +150,7 @@
 
 
 
-## Companies
+## Liked Companies
 
 ![Red Hat Badge](https://img.shields.io/badge/Red%20Hat-E00?logo=redhat&logoColor=fff&style=flat-square)
 ![Linux Foundation Badge](https://img.shields.io/badge/Linux%20Foundation-003778?logo=linuxfoundation&logoColor=fff&style=flat-square)
