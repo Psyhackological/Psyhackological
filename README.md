@@ -72,14 +72,11 @@
 ![Blender Badge](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff&style=flat-square)
 ![Inkscape Badge](https://img.shields.io/badge/Inkscape-000?logo=inkscape&logoColor=fff&style=flat-square)
 ![Kdenlive Badge](https://img.shields.io/badge/Kdenlive-527EB2?logo=kdenlive&logoColor=fff&style=flat-square)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat-square)
 
 ## :iphone: Mobile
 
-![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=flat-square)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=flat-square)
-![Jetpack Compose Badge](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=fff&style=flat-square)
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat-square)
+![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=flat-square)
 
 ## :globe_with_meridians: Web
 
@@ -92,15 +89,8 @@
 
 ## :video_game: Game
 
-![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat-square)
 ![Godot Engine Badge](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat-square)
 ![Bevy Badge](https://img.shields.io/badge/Bevy-232326?logo=bevy&logoColor=fff&style=flat-square)
-
-## Functional
-
-![OCaml Badge](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff&style=flat-square)
-![Haskell Badge](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=fff&style=flat-square)
-![Elixir Badge](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=fff&style=flat-square)
 
 ## :paperclip: Office
 
