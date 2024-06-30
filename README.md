@@ -32,7 +32,7 @@
 [![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat-square)](https://www.debian.org/)
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square)](https://ubuntu.com/)
 
-## :gear: Systems programming
+## :gear: Systems Programming
 
 [![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square)](https://www.rust-lang.org/)
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square)](https://isocpp.org/)
@@ -58,6 +58,11 @@
 [![Android Badge](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=fff&style=flat-square)](https://www.android.com/)
 [![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=flat-square)](https://www.microsoft.com/en-us/windows)
 
+## :iphone: Mobile
+
+[![Flutter Badge](https://img.shields.io/badge/Flutter-02568B?logo=flutter&logoColor=fff&style=flat-square)](https://flutter.dev/)
+[![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=flat-square)(https://dart.dev/)
+
 ## :trophy: Hobby
 
 ![Lichess Badge](https://img.shields.io/badge/Lichess-000?logo=lichess&logoColor=fff&style=flat-square)
@@ -69,15 +74,11 @@
 
 ## :art: Creative
 
-![GIMP Badge](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=flat-square)
-![Blender Badge](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff&style=flat-square)
-![Inkscape Badge](https://img.shields.io/badge/Inkscape-000?logo=inkscape&logoColor=fff&style=flat-square)
-![Kdenlive Badge](https://img.shields.io/badge/Kdenlive-527EB2?logo=kdenlive&logoColor=fff&style=flat-square)
+[![GIMP Badge](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=flat-square)](https://www.gimp.org/)
+[![Blender Badge](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff&style=flat-square)](https://www.blender.org/)
+[![Inkscape Badge](https://img.shields.io/badge/Inkscape-000?logo=inkscape&logoColor=fff&style=flat-square)](https://inkscape.org/)
+[![Kdenlive Badge](https://img.shields.io/badge/Kdenlive-527EB2?logo=kdenlive&logoColor=fff&style=flat-square)](https://kdenlive.org/en/)
 
-## :iphone: Mobile
-
-![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=flat-square)
-![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=flat-square)
 
 ## :globe_with_meridians: Web
 
