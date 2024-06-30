@@ -1,18 +1,29 @@
+# Konrad Konieczny
+
+## Cloud/Linux SysAdmin
+
+### TODO
+1. About me description
+2. GitHub Stats
+
 # :books: My Stacks
 
 ## :busts_in_silhouette: Social
 
 [![Proton Mail Badge](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff&style=flat-square)](mailto:konradkon@pm.me)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/konradkon/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)](https://github.com/Psyhackological?tab=repositories&type=source)
+
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)](https://discord.com/users/@konradkon)
+[![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat-square)](https://steamcommunity.com/id/Psyhackological/)
+
 [![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=flat-square)](https://exercism.org/profiles/Psyhackological)
 [![Lemmy Badge](https://img.shields.io/badge/Lemmy-000?logo=lemmy&logoColor=fff&style=flat-square)](https://lemmy.ml/u/Psyhackological)
 [![Mastodon Badge](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=flat-square)](https://mastodon.social/@Psyhackological)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)](https://discord.com/users/@konradkon)
-[![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat-square)](https://steamcommunity.com/id/Psyhackological/)
-[![Lichess Badge](https://img.shields.io/badge/Lichess-000?logo=lichess&logoColor=fff&style=flat-square)](https://lichess.org/@/Psyhackological)
-[![Monkeytype Badge](https://img.shields.io/badge/Monkeytype-E2B714?logo=monkeytype&logoColor=fff&style=flat-square)](https://monkeytype.com/profile/konradkon)
+
 [![Codeberg Badge](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff&style=flat-square)](https://codeberg.org/Psyhackological?tab=repositories)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)](https://github.com/Psyhackological?tab=repositories&type=source)
+[![Monkeytype Badge](https://img.shields.io/badge/Monkeytype-E2B714?logo=monkeytype&logoColor=fff&style=flat-square)](https://monkeytype.com/profile/konradkon)
+[![Lichess Badge](https://img.shields.io/badge/Lichess-000?logo=lichess&logoColor=fff&style=flat-square)](https://lichess.org/@/Psyhackological)
 
 ## :cloud: Cloud
 
@@ -90,7 +101,6 @@
 [![LibreOffice Writer Badge](https://img.shields.io/badge/LibreOffice%20Writer-083FA6?logo=libreofficewriter&logoColor=fff&style=flat-square)](https://www.libreoffice.org/discover/writer/)
 [![LibreOffice Calc Badge](https://img.shields.io/badge/LibreOffice%20Calc-007C3C?logo=libreofficecalc&logoColor=fff&style=flat-square)](https://www.libreoffice.org/discover/calc/)
 [![LibreOffice Impress Badge](https://img.shields.io/badge/LibreOffice%20Impress-D0120D?logo=libreofficeimpress&logoColor=fff&style=flat-square)](https://www.libreoffice.org/discover/impress/)
-
 [![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat-square)](https://www.latex-project.org/)
 
 ## :globe_with_meridians: Web
@@ -111,7 +121,7 @@
 ## :school: Academic
 
 [![C# Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=flat-square)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=flat-square)](https://www.java.com/)
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=flat-square)](https://www.java.com/en/)
 
 ## :wrench: Setup
 [![CachyOS Badge](https://img.shields.io/badge/CachyOS-00A988?logo=archlinux&logoColor=00CCFF&style=flat-square)](https://cachyos.org/)
@@ -130,7 +140,7 @@
 [![LineageOS Badge](https://img.shields.io/badge/LineageOS-167C80?logo=lineageos&logoColor=fff&style=flat-square)](https://lineage.microg.org/)
 [![Molly Badge](https://img.shields.io/badge/Molly-7663f0?logo=signal&logoColor=fff&style=flat-square)](https://molly.im/)
 [![Mull Badge](https://img.shields.io/badge/Mull-009688?logo=firefox&logoColor=000&style=flat-square)](https://gitlab.com/divested-mobile/mull-fenix)
-[![Feeder Badge](https://img.shields.io/badge/Feeder-#1E9356?logo=rss&logoColor=fff&style=flat-square)](https://github.com/spacecowboy/Feeder)
+[![Feeder Badge](https://img.shields.io/badge/Feeder-1E9356?logo=rss&logoColor=fff&style=flat-square)](https://github.com/spacecowboy/Feeder)
 
 ## :star: Liked Companies
 
