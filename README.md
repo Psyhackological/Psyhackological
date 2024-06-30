@@ -114,40 +114,23 @@
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=flat-square)](https://www.java.com/)
 
 ## :wrench: Setup
-
-[![CachyOS Badge](https://img.shields.io/badge/CachyOS-#00A988?logo=archlinux&logoColor=00CCFF&style=flat-square)](https://cachyos.org/)
-[![Bazzite Badge](https://img.shields.io/badge/Bazzite-#5233C6?logo=fedora&logoColor=fff&style=flat-square)](https://bazzite.gg/)
+[![CachyOS Badge](https://img.shields.io/badge/CachyOS-00A988?logo=archlinux&logoColor=00CCFF&style=flat-square)](https://cachyos.org/)
+[![Bazzite Badge](https://img.shields.io/badge/Bazzite-5233C6?logo=fedora&logoColor=fff&style=flat-square)](https://bazzite.gg/)
 [![Pop!_OS Badge](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff&style=flat-square)](https://system76.com/pop)
 [![Raspbian Badge](https://img.shields.io/badge/Raspbian-A22846?logo=raspberrypi&logoColor=fff&style=flat-square)](https://www.raspbian.org/)
 
+[![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat-square)](https://bitwarden.com/)
+[![Alacritty Badge](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff&style=flat-square)](https://bitwarden.com/)
+[![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)](https://git-scm.com/)
+[![Bitwarden Badge](https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=fff&style=flat-square)](https://bitwarden.com/)
+[![LibreWolf Badge](https://img.shields.io/badge/LibreWolf-4CACF8?logo=firefox&logoColor=fff&style=flat-square)](https://librewolf.net/)
+[![uBlock Origin Badge](https://img.shields.io/badge/uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff&style=flat-square)](https://ublockorigin.com/)
 
-IDE: [![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat-square)](https://bitwarden.com/)
-
-Terminal: [![Alacritty Badge](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff&style=flat-square)](https://bitwarden.com/)
-
-Version Control System: [![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)](https://git-scm.com/)
-
-
-Password Manager: [![Bitwarden Badge](https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=fff&style=flat-square)](https://bitwarden.com/)
-
-Browser: [![LibreWolf Badge](https://img.shields.io/badge/LibreWolf-4CACF8?logo=firefox&logoColor=fff&style=flat-square)](https://librewolf.net/)
-
-Content Blocker: [![uBlock Origin Badge](https://img.shields.io/badge/uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff&style=flat-square)](https://ublockorigin.com/)
-
-
-
-
-
-[Google Pixel 7 Pro](https://store.google.com/config/pixel_7_pro) Smartphone ([GrapheneOS](https://grapheneos.org/)): [![GrapheneOS Badge](https://img.shields.io/badge/GrapheneOS-0053A3?logo=grapheneos&logoColor=fff&style=flat-square)](https://grapheneos.org/)
-
-[OnePlus 7 Pro](https://www.oneplus.com/pl/7pro) Smartphone: [![LineageOS Badge](https://img.shields.io/badge/LineageOS-167C80?logo=lineageos&logoColor=fff&style=flat-square)](https://lineage.microg.org/)
-
-Messenger ([Molly](https://molly.im/)): [![Signal Badge](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff&style=flat-square)](https://signal.org/)
-
-Browser ([Mull](https://gitlab.com/divested-mobile/mull-fenix)): [![LibreWolf Badge](https://img.shields.io/badge/Mull-009688?logo=firefox&logoColor=000&style=flat-square)](https://gitlab.com/divested-mobile/mull-fenix)
-
-RSS Reader ([Feeder](https://github.com/spacecowboy/Feeder)): [![RSS Badge](https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=fff&style=flat-square)](https://github.com/spacecowboy/Feeder)
-
+[![GrapheneOS Badge](https://img.shields.io/badge/GrapheneOS-0053A3?logo=grapheneos&logoColor=fff&style=flat-square)](https://grapheneos.org/)
+[![LineageOS Badge](https://img.shields.io/badge/LineageOS-167C80?logo=lineageos&logoColor=fff&style=flat-square)](https://lineage.microg.org/)
+[![Molly Badge](https://img.shields.io/badge/Molly-7663f0?logo=signal&logoColor=fff&style=flat-square)](https://molly.im/)
+[![Mull Badge](https://img.shields.io/badge/Mull-009688?logo=firefox&logoColor=000&style=flat-square)](https://gitlab.com/divested-mobile/mull-fenix)
+[![Feeder Badge](https://img.shields.io/badge/Feeder-#1E9356?logo=rss&logoColor=fff&style=flat-square)](https://github.com/spacecowboy/Feeder)
 
 ## :star: Liked Companies
 
