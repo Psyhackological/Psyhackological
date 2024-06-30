@@ -114,26 +114,43 @@
 ## :wrench: Setup
 
 Spare Laptop ([CachyOS](https://cachyos.org/)): [![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat-square)](https://cachyos.org/)
+
 Gaming PC ([Bazzite](https://bazzite.gg/)): [![Fedora Badge](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff&style=flat-square)](https://bazzite.gg/)
+
 [System76](https://system76.com/) [Laptop](https://system76.com/laptops/serval): [![Pop!_OS Badge](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff&style=flat-square)](https://system76.com/pop)
+
 [Rasperry Pi](https://www.raspberrypi.org/) ([Rasbian](https://www.raspbian.org/)): ([![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=flat-square)](https://www.raspbian.org/)
 
+
 IDE: [![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat-square)](https://bitwarden.com/)
+
 Terminal: [![Alacritty Badge](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff&style=flat-square)](https://bitwarden.com/)
+
 Version Control System: [![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)](https://git-scm.com/)
 
+
 Password Manager: [![Bitwarden Badge](https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=fff&style=flat-square)](https://bitwarden.com/)
-Browser: [![LibreWolf Badge](https://img.shields.io/badge/LibreWolf-4CACF8?logo=firefox&logoColor=fff&style=flat-square)]()
+
+Browser: [![LibreWolf Badge](https://img.shields.io/badge/LibreWolf-4CACF8?logo=firefox&logoColor=fff&style=flat-square)](https://librewolf.net/)
+
 Content Blocker: [![uBlock Origin Badge](https://img.shields.io/badge/uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff&style=flat-square)](https://ublockorigin.com/)
 
-FOSS Repositories: [![Codeberg Badge](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff&style=flat-square)]()
-Proprietary Repositories: [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)]()
 
-Pixel 7 Pro Smartphone ([GrapheneOS](https://grapheneos.org/)): [![GrapheneOS Badge](https://img.shields.io/badge/GrapheneOS-0053A3?logo=grapheneos&logoColor=fff&style=flat-square)](https://grapheneos.org/)
-OnePlus 7 Pro: [![LineageOS Badge](https://img.shields.io/badge/LineageOS-167C80?logo=lineageos&logoColor=fff&style=flat-square)](https://lineage.microg.org/)
+FOSS Git Platform: [![Codeberg Badge](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff&style=flat-square)](https://codeberg.org/Psyhackological?tab=repositories)
+
+Proprietary Git Platform: [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)](https://github.com/Psyhackological?tab=repositories&type=source)
+
+
+[Google Pixel 7 Pro](https://store.google.com/config/pixel_7_pro) Smartphone ([GrapheneOS](https://grapheneos.org/)): [![GrapheneOS Badge](https://img.shields.io/badge/GrapheneOS-0053A3?logo=grapheneos&logoColor=fff&style=flat-square)](https://grapheneos.org/)
+
+[OnePlus 7 Pro](https://www.oneplus.com/pl/7pro) Smartphone: [![LineageOS Badge](https://img.shields.io/badge/LineageOS-167C80?logo=lineageos&logoColor=fff&style=flat-square)](https://lineage.microg.org/)
+
 Messenger ([Molly](https://molly.im/)): [![Signal Badge](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff&style=flat-square)](https://signal.org/)
+
 Browser ([Mull](https://gitlab.com/divested-mobile/mull-fenix)): [![LibreWolf Badge](https://img.shields.io/badge/Mull-009688?logo=firefox&logoColor=000&style=flat-square)](https://gitlab.com/divested-mobile/mull-fenix)
+
 RSS Reader ([Feeder](https://github.com/spacecowboy/Feeder)): [![RSS Badge](https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=fff&style=flat-square)](https://github.com/spacecowboy/Feeder)
+
 
 ## :star: Liked Companies
 
