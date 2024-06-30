@@ -8,6 +8,9 @@
 [![Lemmy Badge](https://img.shields.io/badge/Lemmy-000?logo=lemmy&logoColor=fff&style=flat-square)](https://lemmy.ml/u/Psyhackological)
 [![Mastodon Badge](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=flat-square)](https://mastodon.social/@Psyhackological)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)](https://discord.com/users/@konradkon)
+[![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat-square)](https://steamcommunity.com/id/Psyhackological/)
+[![Lichess Badge](https://img.shields.io/badge/Lichess-000?logo=lichess&logoColor=fff&style=flat-square)](https://lichess.org/@/Psyhackological)
+[![Monkeytype Badge](https://img.shields.io/badge/Monkeytype-E2B714?logo=monkeytype&logoColor=fff&style=flat-square)](https://monkeytype.com/profile/konradkon)
 
 ## :cloud: Cloud
 
@@ -61,16 +64,7 @@
 ## :iphone: Mobile
 
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02568B?logo=flutter&logoColor=fff&style=flat-square)](https://flutter.dev/)
-[![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=flat-square)(https://dart.dev/)
-
-## :trophy: Hobby
-
-![Lichess Badge](https://img.shields.io/badge/Lichess-000?logo=lichess&logoColor=fff&style=flat-square)
-![Open Source Badge](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=fff&style=flat-square)
-![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=flat-square)
-![Waking Up Badge](https://img.shields.io/badge/Waking%20Up-212256?logo=headspace&logoColor=0AC8D4&style=flat-square)
-![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat-square)
-![qBittorrent Badge](https://img.shields.io/badge/qBittorrent-2F67BA?logo=qbittorrent&logoColor=fff&style=flat-square)
+[![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=flat-square)](https://dart.dev/)
 
 ## :art: Creative
 
@@ -79,62 +73,70 @@
 [![Inkscape Badge](https://img.shields.io/badge/Inkscape-000?logo=inkscape&logoColor=fff&style=flat-square)](https://inkscape.org/)
 [![Kdenlive Badge](https://img.shields.io/badge/Kdenlive-527EB2?logo=kdenlive&logoColor=fff&style=flat-square)](https://kdenlive.org/en/)
 
-
-## :globe_with_meridians: Web
-
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
-![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat-square)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat-square)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square)
-
 ## :video_game: Game
 
-![Godot Engine Badge](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat-square)
-![Bevy Badge](https://img.shields.io/badge/Bevy-232326?logo=bevy&logoColor=fff&style=flat-square)
+[![Godot Engine Badge](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat-square)](https://godotengine.org/)
+[![Bevy Badge](https://img.shields.io/badge/Bevy-232326?logo=bevy&logoColor=fff&style=flat-square)](https://bevyengine.org/)
 
 ## :paperclip: Office
 
-![Microsoft PowerPoint Badge](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=fff&style=flat-square)
-![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=flat-square)
-![Microsoft Word Badge](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoftword&logoColor=fff&style=flat-square)
-![Microsoft Access Badge](https://img.shields.io/badge/Microsoft%20Access-A4373A?logo=microsoftaccess&logoColor=fff&style=flat-square)
-![LibreOffice Writer Badge](https://img.shields.io/badge/LibreOffice%20Writer-083FA6?logo=libreofficewriter&logoColor=fff&style=flat-square)
-![LibreOffice Calc Badge](https://img.shields.io/badge/LibreOffice%20Calc-007C3C?logo=libreofficecalc&logoColor=fff&style=flat-square)
-![LibreOffice Impress Badge](https://img.shields.io/badge/LibreOffice%20Impress-D0120D?logo=libreofficeimpress&logoColor=fff&style=flat-square)
-![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat-square)
+[![Microsoft PowerPoint Badge](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=fff&style=flat-square)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+[![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=flat-square)](https://www.microsoft.com/pl-pl/microsoft-365/excel)
+[![Microsoft Word Badge](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoftword&logoColor=fff&style=flat-square)](https://www.microsoft.com/pl-pl/microsoft-365/word)
+[![Microsoft Access Badge](https://img.shields.io/badge/Microsoft%20Access-A4373A?logo=microsoftaccess&logoColor=fff&style=flat-square)](https://www.microsoft.com/en-us/microsoft-365/access)
+
+[![LibreOffice Writer Badge](https://img.shields.io/badge/LibreOffice%20Writer-083FA6?logo=libreofficewriter&logoColor=fff&style=flat-square)](https://www.libreoffice.org/discover/writer/)
+[![LibreOffice Calc Badge](https://img.shields.io/badge/LibreOffice%20Calc-007C3C?logo=libreofficecalc&logoColor=fff&style=flat-square)](https://www.libreoffice.org/discover/calc/)
+[![LibreOffice Impress Badge](https://img.shields.io/badge/LibreOffice%20Impress-D0120D?logo=libreofficeimpress&logoColor=fff&style=flat-square)](https://www.libreoffice.org/discover/impress/)
+
+[![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat-square)](https://www.latex-project.org/)
+
+## :globe_with_meridians: Web
+
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)](https://html.spec.whatwg.org/multipage/)
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)](https://www.w3.org/Style/CSS/)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat-square)](https://jquery.com/)
+[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat-square)](https://www.php.net/)
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square)](https://getbootstrap.com/)
 
 ## :file_folder: Database
 
-![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=flat-square)
-![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat-square)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
+[![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat-square)](https://www.sqlite.org/)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)](https://www.mysql.com/)
+[![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=flat-square)](https://mariadb.org/)
 
 ## :school: Academic
 
-![C# Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=flat-square)
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=flat-square)
+[![C# Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=flat-square)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=flat-square)](https://www.java.com/)
 
 ## :wrench: Setup
 
-![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat-square)
-![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat-square)
-![Fedora Badge](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff&style=flat-square)
-![System76 Badge](https://img.shields.io/badge/System76-585048?logo=system76&logoColor=fff&style=flat-square)
-![Pop!_OS Badge](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff&style=flat-square)
-![Alacritty Badge](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff&style=flat-square)
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
-![GrapheneOS Badge](https://img.shields.io/badge/GrapheneOS-0053A3?logo=grapheneos&logoColor=fff&style=flat-square)
-![Bitwarden Badge](https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=fff&style=flat-square)
-![LibreWolf Badge](https://img.shields.io/badge/LibreWolf-4CACF8?logo=firefox&logoColor=fff&style=flat-square)
-![uBlock Origin Badge](https://img.shields.io/badge/uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff&style=flat-square)
-![Codeberg Badge](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff&style=flat-square)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
-![Signal Badge](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff&style=flat-square)
-![RSS Badge](https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=fff&style=flat-square)
+Spare Laptop ([CachyOS](https://cachyos.org/)): [![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat-square)](https://cachyos.org/)
+Gaming PC ([Bazzite](https://bazzite.gg/)): [![Fedora Badge](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff&style=flat-square)](https://bazzite.gg/)
+[System76](https://system76.com/) [Laptop](https://system76.com/laptops/serval): [![Pop!_OS Badge](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff&style=flat-square)](https://system76.com/pop)
+[Rasperry Pi](https://www.raspberrypi.org/) ([Rasbian](https://www.raspbian.org/)): ([![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=flat-square)](https://www.raspbian.org/)
+
+IDE: [![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat-square)](https://bitwarden.com/)
+Terminal: [![Alacritty Badge](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff&style=flat-square)](https://bitwarden.com/)
+Version Control System: [![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)](https://git-scm.com/)
+
+Password Manager: [![Bitwarden Badge](https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=fff&style=flat-square)](https://bitwarden.com/)
+Browser: [![LibreWolf Badge](https://img.shields.io/badge/LibreWolf-4CACF8?logo=firefox&logoColor=fff&style=flat-square)]()
+Content Blocker: [![uBlock Origin Badge](https://img.shields.io/badge/uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff&style=flat-square)](https://ublockorigin.com/)
+
+FOSS Repositories: [![Codeberg Badge](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff&style=flat-square)]()
+Proprietary Repositories: [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)]()
+
+Pixel 7 Pro Smartphone ([GrapheneOS](https://grapheneos.org/)): [![GrapheneOS Badge](https://img.shields.io/badge/GrapheneOS-0053A3?logo=grapheneos&logoColor=fff&style=flat-square)](https://grapheneos.org/)
+OnePlus 7 Pro: [![LineageOS Badge](https://img.shields.io/badge/LineageOS-167C80?logo=lineageos&logoColor=fff&style=flat-square)](https://lineage.microg.org/)
+Messenger ([Molly](https://molly.im/)): [![Signal Badge](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff&style=flat-square)](https://signal.org/)
+Browser ([Mull](https://gitlab.com/divested-mobile/mull-fenix)): [![LibreWolf Badge](https://img.shields.io/badge/Mull-009688?logo=firefox&logoColor=000&style=flat-square)](https://gitlab.com/divested-mobile/mull-fenix)
+RSS Reader ([Feeder](https://github.com/spacecowboy/Feeder)): [![RSS Badge](https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=fff&style=flat-square)](https://github.com/spacecowboy/Feeder)
 
 ## :star: Liked Companies
 
-![Red Hat Badge](https://img.shields.io/badge/Red%20Hat-E00?logo=redhat&logoColor=fff&style=flat-square)
-![Linux Foundation Badge](https://img.shields.io/badge/Linux%20Foundation-003778?logo=linuxfoundation&logoColor=fff&style=flat-square)
+[![Nokia Badge](https://img.shields.io/badge/Nokia-005AFF?logo=nokia&logoColor=fff&style=flat-square)](https://www.nokia.com/)
+[![Linux Foundation Badge](https://img.shields.io/badge/Linux%20Foundation-003778?logo=linuxfoundation&logoColor=fff&style=flat-square)](https://www.linuxfoundation.org/)
+[![Red Hat Badge](https://img.shields.io/badge/Red%20Hat-E00?logo=redhat&logoColor=fff&style=flat-square)](https://www.redhat.com/en)
