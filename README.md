@@ -11,6 +11,8 @@
 [![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat-square)](https://steamcommunity.com/id/Psyhackological/)
 [![Lichess Badge](https://img.shields.io/badge/Lichess-000?logo=lichess&logoColor=fff&style=flat-square)](https://lichess.org/@/Psyhackological)
 [![Monkeytype Badge](https://img.shields.io/badge/Monkeytype-E2B714?logo=monkeytype&logoColor=fff&style=flat-square)](https://monkeytype.com/profile/konradkon)
+[![Codeberg Badge](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff&style=flat-square)](https://codeberg.org/Psyhackological?tab=repositories)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)](https://github.com/Psyhackological?tab=repositories&type=source)
 
 ## :cloud: Cloud
 
@@ -113,13 +115,10 @@
 
 ## :wrench: Setup
 
-Spare Laptop ([CachyOS](https://cachyos.org/)): [![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat-square)](https://cachyos.org/)
-
-Gaming PC ([Bazzite](https://bazzite.gg/)): [![Fedora Badge](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff&style=flat-square)](https://bazzite.gg/)
-
-[System76](https://system76.com/) [Laptop](https://system76.com/laptops/serval): [![Pop!_OS Badge](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff&style=flat-square)](https://system76.com/pop)
-
-[Rasperry Pi](https://www.raspberrypi.org/) ([Rasbian](https://www.raspbian.org/)): ([![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=flat-square)](https://www.raspbian.org/)
+[![CachyOS Badge](https://img.shields.io/badge/CachyOS-#00A988?logo=archlinux&logoColor=00CCFF&style=flat-square)](https://cachyos.org/)
+[![Bazzite Badge](https://img.shields.io/badge/Bazzite-#5233C6?logo=fedora&logoColor=fff&style=flat-square)](https://bazzite.gg/)
+[![Pop!_OS Badge](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff&style=flat-square)](https://system76.com/pop)
+[![Raspbian Badge](https://img.shields.io/badge/Raspbian-A22846?logo=raspberrypi&logoColor=fff&style=flat-square)](https://www.raspbian.org/)
 
 
 IDE: [![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat-square)](https://bitwarden.com/)
@@ -136,9 +135,7 @@ Browser: [![LibreWolf Badge](https://img.shields.io/badge/LibreWolf-4CACF8?logo=
 Content Blocker: [![uBlock Origin Badge](https://img.shields.io/badge/uBlock%20Origin-800000?logo=ublockorigin&logoColor=fff&style=flat-square)](https://ublockorigin.com/)
 
 
-FOSS Git Platform: [![Codeberg Badge](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff&style=flat-square)](https://codeberg.org/Psyhackological?tab=repositories)
 
-Proprietary Git Platform: [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)](https://github.com/Psyhackological?tab=repositories&type=source)
 
 
 [Google Pixel 7 Pro](https://store.google.com/config/pixel_7_pro) Smartphone ([GrapheneOS](https://grapheneos.org/)): [![GrapheneOS Badge](https://img.shields.io/badge/GrapheneOS-0053A3?logo=grapheneos&logoColor=fff&style=flat-square)](https://grapheneos.org/)
