@@ -2,9 +2,8 @@
 
 ## Cloud/Linux SysAdmin
 
-### TODO
-1. About me description
-2. GitHub Stats
+- Linux Cloud System Admin by the workday.
+- Having tech fun with many projects by night.
 
 # :books: My Stacks
 
@@ -30,6 +29,7 @@
 [![OpenStack Badge](https://img.shields.io/badge/OpenStack-ED1944?logo=openstack&logoColor=fff&style=flat-square)](https://www.openstack.org/)
 [![Ceph Badge](https://img.shields.io/badge/Ceph-EF5C55?logo=ceph&logoColor=fff&style=flat-square)](https://ceph.io/en/)
 [![QEMU Badge](https://img.shields.io/badge/QEMU-F60?logo=qemu&logoColor=fff&style=flat-square)](https://www.qemu.org/)
+[![RabbitMQ Badge](https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=flat-square)](https://www.rabbitmq.com/)
 
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)](https://linuxcontainers.org/)
 [![Podman Badge](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=fff&style=flat-square)](https://podman.io/)
@@ -42,7 +42,6 @@
 
 [![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat-square)](https://prometheus.io/)
 [![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat-square)](https://grafana.com/)
-[![CheckMK Badge](https://img.shields.io/badge/CheckMK-15D1A0?logo=checkmk&logoColor=fff&style=flat-square)](https://checkmk.com/)
 
 [![Rocky Badge](https://img.shields.io/badge/Rocky-10B981?logo=rockylinux&logoColor=fff&style=flat-square)](https://rockylinux.org/)
 [![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat-square)](https://www.debian.org/)
@@ -102,6 +101,7 @@
 [![LibreOffice Calc Badge](https://img.shields.io/badge/LibreOffice%20Calc-007C3C?logo=libreofficecalc&logoColor=fff&style=flat-square)](https://www.libreoffice.org/discover/calc/)
 [![LibreOffice Impress Badge](https://img.shields.io/badge/LibreOffice%20Impress-D0120D?logo=libreofficeimpress&logoColor=fff&style=flat-square)](https://www.libreoffice.org/discover/impress/)
 [![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat-square)](https://www.latex-project.org/)
+[![Typst Badge](https://img.shields.io/badge/Typst-239DAD?logo=typst&logoColor=fff&style=flat-square)](https://typst.app/)
 
 ## :globe_with_meridians: Web
 
@@ -124,6 +124,7 @@
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=flat-square)](https://www.java.com/en/)
 
 ## :wrench: Setup
+
 [![CachyOS Badge](https://img.shields.io/badge/CachyOS-00A988?logo=archlinux&logoColor=00CCFF&style=flat-square)](https://cachyos.org/)
 [![Bazzite Badge](https://img.shields.io/badge/Bazzite-5233C6?logo=fedora&logoColor=fff&style=flat-square)](https://bazzite.gg/)
 [![Pop!_OS Badge](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff&style=flat-square)](https://system76.com/pop)
