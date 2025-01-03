@@ -18,7 +18,7 @@
 
 [![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=flat-square)](https://exercism.org/profiles/Psyhackological)
 [![Lemmy Badge](https://img.shields.io/badge/Lemmy-000?logo=lemmy&logoColor=fff&style=flat-square)](https://lemmy.ml/u/Psyhackological)
-[![Mastodon Badge](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=flat-square)](https://mastodon.social/@Psyhackological)
+[![Mastodon Badge](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=flat-square)](https://fosstodon.org/@psyhackological)
 
 [![Codeberg Badge](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff&style=flat-square)](https://codeberg.org/Psyhackological?tab=repositories)
 [![Monkeytype Badge](https://img.shields.io/badge/Monkeytype-E2B714?logo=monkeytype&logoColor=fff&style=flat-square)](https://monkeytype.com/profile/konradkon)
